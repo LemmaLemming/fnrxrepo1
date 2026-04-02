@@ -7,7 +7,7 @@ import {
   useFrameProcessor,
 } from 'react-native-vision-camera';
 import { runOnJS } from 'react-native-reanimated';
-import { scanOCR } from 'vision-camera-ocr';
+import { useTextRecognition } from 'react-native-vision-camera-ocr-plus';
 import {
   extractDinCandidates,
   lookupDin,
@@ -64,11 +64,13 @@ export default function App() {
     setResult({ status: 'not_covered', din });
   }, []);
 
+  const { scanText } = useTextRecognition({ language: 'latin' });
+
   const frameProcessor = useFrameProcessor(
     (frame) => {
       'worklet';
 
-      const scanned = scanOCR(frame);
+      const scanned = scanText(frame);
       const text = scanned?.result?.text ?? '';
       if (!text) {
         return;
@@ -76,7 +78,7 @@ export default function App() {
 
       runOnJS(applyDetectedText)(text);
     },
-    [applyDetectedText],
+    [applyDetectedText, scanText],
   );
 
   const statusText = useMemo(() => {
