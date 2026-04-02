@@ -1,0 +1,4066 @@
+[
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen regular strength",
+    "strength": "325 mg",
+    "dosageForm": "tablet",
+    "din": "02252805",
+    "manufacturer": "CellChem Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen extra strength",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "02252813",
+    "manufacturer": "CellChem Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Tylenol arthritis pain 8H",
+    "strength": "650 mg",
+    "dosageForm": "tab er",
+    "din": "02238885",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Abenol",
+    "strength": "650 mg",
+    "dosageForm": "supp rect",
+    "din": "01919407",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acet 120",
+    "strength": "120 mg",
+    "dosageForm": "supp rect",
+    "din": "02230434",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "PMS-acetaminophen suppositories",
+    "strength": "120 mg",
+    "dosageForm": "supp rect",
+    "din": "02046660",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acet 160",
+    "strength": "160 mg",
+    "dosageForm": "supp rect",
+    "din": "02230435",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen for children",
+    "strength": "160 mg",
+    "dosageForm": "tab chew",
+    "din": "02017431",
+    "manufacturer": "Laboratoires Riva Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Children's Tylenol",
+    "strength": "160 mg",
+    "dosageForm": "tab chew",
+    "din": "02241361",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Junior strength",
+    "strength": "160 mg",
+    "dosageForm": "tab chew",
+    "din": "02230934",
+    "manufacturer": "Tanta Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Children's fast melts",
+    "strength": "160 mg",
+    "dosageForm": "tab rapdis",
+    "din": "02347792",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Junior strength",
+    "strength": "160 mg",
+    "dosageForm": "tablet",
+    "din": "02142805",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "PDP-acetaminophen",
+    "strength": "160 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "00792691",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Children's acetaminophen",
+    "strength": "160 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "01901389",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Children's Tylenol",
+    "strength": "160 mg/5 mL",
+    "dosageForm": "oral susp",
+    "din": "02046040",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen",
+    "strength": "160 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "01958836",
+    "manufacturer": "Laboratoires Trianon Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Pediatrix",
+    "strength": "160 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "02027798",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Tempra double strength children's syrup",
+    "strength": "160 mg/5 mL",
+    "dosageForm": "syrup",
+    "din": "00875996",
+    "manufacturer": "Paladin Labs Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Novo Gesic",
+    "strength": "325 mg",
+    "dosageForm": "caplet",
+    "din": "00389218",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen",
+    "strength": "325 mg",
+    "dosageForm": "supp rect",
+    "din": "02230436",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Jamp acetaminophen",
+    "strength": "325 mg",
+    "dosageForm": "tablet",
+    "din": "01938088",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "",
+    "brandName": "Acetaminophen",
+    "strength": "650 mg",
+    "dosageForm": "supp rect",
+    "din": "02230437",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "",
+    "brandName": "PMS-acetaminophen suppositories",
+    "strength": "650 mg",
+    "dosageForm": "supp rect",
+    "din": "02046695",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Jamp acetaminophen",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "01939122",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen",
+    "strength": "650 mg",
+    "dosageForm": "supp rect",
+    "din": "02230437",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "PMS-acetaminophen suppositories",
+    "strength": "650 mg",
+    "dosageForm": "supp rect",
+    "din": "02046695",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen for children",
+    "strength": "80 mg",
+    "dosageForm": "tab chew",
+    "din": "02017458",
+    "manufacturer": "Laboratoires Riva Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen for children",
+    "strength": "80 mg",
+    "dosageForm": "tab chew",
+    "din": "02129957",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen for children",
+    "strength": "80 mg",
+    "dosageForm": "tab chew",
+    "din": "02015676",
+    "manufacturer": "Tanta Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Tempra children's syrup",
+    "strength": "80 mg/5 mL",
+    "dosageForm": "syrup",
+    "din": "00884553",
+    "manufacturer": "Paladin Labs Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Tempra infant drops",
+    "strength": "80 mg/mL",
+    "dosageForm": "drops",
+    "din": "00875988",
+    "manufacturer": "Paladin Labs Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Pediatrix drops",
+    "strength": "80 mg/mL",
+    "dosageForm": "drops",
+    "din": "02027801",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen",
+    "strength": "80 mg/mL",
+    "dosageForm": "drops",
+    "din": "01905864",
+    "manufacturer": "Laboratoires Trianon Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Infant's Tylenol",
+    "strength": "80 mg/mL",
+    "dosageForm": "drops susp",
+    "din": "02046059",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Acetaminophen Tablets Usp 500 Mg",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "02362244",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Apo-Acetaminophen Caplets Extra Strength",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "02229977",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Apo-Acetaminophen Extra Strength",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00545007",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "acetaminophen",
+    "brandName": "Novo-Gesic Forte",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00482323",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "ASA",
+    "strength": "325 mg",
+    "dosageForm": "tablet",
+    "din": "00530336",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Aspirin-coated for delayed release regular strength",
+    "strength": "325 mg",
+    "dosageForm": "tab dr",
+    "din": "02150417",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Enteric-coated ASA",
+    "strength": "325 mg",
+    "dosageForm": "tab dr",
+    "din": "00510696",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Jamp-ASA",
+    "strength": "80 mg",
+    "dosageForm": "tab chew",
+    "din": "02269139",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "ASA",
+    "strength": "80 mg",
+    "dosageForm": "tab chew",
+    "din": "02280167",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Asaphen",
+    "strength": "80 mg",
+    "dosageForm": "tab chew",
+    "din": "02009013",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "SNS-ASA EC",
+    "strength": "80 mg",
+    "dosageForm": "tablet dr",
+    "din": "02427176",
+    "manufacturer": "Sanis Health Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Asaphen EC",
+    "strength": "80 mg",
+    "dosageForm": "tablet dr",
+    "din": "02238545",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Entrophen",
+    "strength": "81 mg",
+    "dosageForm": "tab chew",
+    "din": "02243974",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "ASA daily low dose",
+    "strength": "81 mg",
+    "dosageForm": "tab chew",
+    "din": "02394790",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Aspirin",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02237726",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Entrophen",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02242281",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "ASA",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02244993",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Praxis ASA EC daily low dose",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02283700",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "ASA EC",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02426811",
+    "manufacturer": "Sanis Health Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "JAMP-ASA EC",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02427206",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "ASA",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02433044",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "ASA",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02449277",
+    "manufacturer": "Laboratoires Trianon Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Equate daily low dose",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02243801",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "ASA exact coated daily low dose",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02243896",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "ASA coated daily low dose",
+    "strength": "81 mg",
+    "dosageForm": "tablet dr",
+    "din": "02377683",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "acetylsalicylic acid (ASA)",
+    "brandName": "Jamp-Asa Ec",
+    "strength": "80 mg",
+    "dosageForm": "tablet dr",
+    "din": "02283905",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "bacitracin",
+    "brandName": "Bacitin",
+    "strength": "500 unit/g",
+    "dosageForm": "oint (g)",
+    "din": "00584908",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "bacitracin zinc/polymyxin B",
+    "brandName": "Polysporin antibiotic",
+    "strength": "500-10 k/g",
+    "dosageForm": "oint (g)",
+    "din": "02237227",
+    "manufacturer": "Johnson & Johnson Inc."
+  },
+  {
+    "chemicalName": "bacitracin/gramicidin/polymyx n",
+    "brandName": "Polysporin triple antibiotic",
+    "strength": "500-0.25 mg",
+    "dosageForm": "oint (g)",
+    "din": "02237226",
+    "manufacturer": "Johnson & Johnson Inc."
+  },
+  {
+    "chemicalName": "bacitracin/polymyxin B sulfate",
+    "brandName": "Bioderm",
+    "strength": "500-10 k/g",
+    "dosageForm": "oint (g)",
+    "din": "00621366",
+    "manufacturer": "Odan Laboratories"
+  },
+  {
+    "chemicalName": "bacitracin/polymyxin B sulfate",
+    "brandName": "Polysporin sterile ophthalmic",
+    "strength": "500-10 k/g",
+    "dosageForm": "oint (g)",
+    "din": "02239157",
+    "manufacturer": "Johnson & Johnson Inc."
+  },
+  {
+    "chemicalName": "bacitracin/polymyxin B sulfate",
+    "brandName": "Anitibiotic",
+    "strength": "500-10 k/g",
+    "dosageForm": "oint (g)",
+    "din": "02304473",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "bacitracin/polymyxin B sulfate",
+    "brandName": "Jampolycin",
+    "strength": "500-10 k/g",
+    "dosageForm": "oint (g)",
+    "din": "02357569",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "benzoyl peroxide",
+    "brandName": "Benzagel",
+    "strength": "5%",
+    "dosageForm": "cleanser",
+    "din": "02162121",
+    "manufacturer": "Columbia Laboratories Canada Inc."
+  },
+  {
+    "chemicalName": "benzoyl peroxide",
+    "brandName": "Benzagel",
+    "strength": "5%",
+    "dosageForm": "gel alcohol",
+    "din": "02162113",
+    "manufacturer": "Columbia Laboratories Canada Inc."
+  },
+  {
+    "chemicalName": "benzoyl peroxide",
+    "brandName": "Benzagel",
+    "strength": "5%",
+    "dosageForm": "lotion",
+    "din": "02166607",
+    "manufacturer": "Columbia Laboratories Canada Inc."
+  },
+  {
+    "chemicalName": "bisacodyl",
+    "brandName": "Bisacodyl",
+    "strength": "10 mg",
+    "dosageForm": "supp rect",
+    "din": "02458853",
+    "manufacturer": "CellChem Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "bisacodyl",
+    "brandName": "Bisacodyl",
+    "strength": "10 mg",
+    "dosageForm": "supp rect",
+    "din": "02361450",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "bisacodyl",
+    "brandName": "Dulcolax",
+    "strength": "10 mg",
+    "dosageForm": "supp rect",
+    "din": "00003875",
+    "manufacturer": "Sanofi Consumer Health Inc."
+  },
+  {
+    "chemicalName": "bisacodyl",
+    "brandName": "JAMP-bisacodyl",
+    "strength": "5 mg",
+    "dosageForm": "tablet dr",
+    "din": "02246039",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "bisacodyl",
+    "brandName": "Bisacdyl-Odan",
+    "strength": "5 mg",
+    "dosageForm": "tablet dr",
+    "din": "02273411",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "bisacodyl",
+    "brandName": "APO-Bisacodyl",
+    "strength": "5 mg",
+    "dosageForm": "tablet dr",
+    "din": "00545023",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "bisacodyl",
+    "brandName": "PMS-Bisacodyl",
+    "strength": "5 mg",
+    "dosageForm": "tablet dr",
+    "din": "00587273",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "Solucal raspberry",
+    "strength": "100/1.25 mL",
+    "dosageForm": "liquid",
+    "din": "80025523",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "mcal",
+    "strength": "1000 mg",
+    "dosageForm": "tablet",
+    "din": "80019536",
+    "manufacturer": "Mantra Pharma Inc."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "NU-CAL",
+    "strength": "100 mg",
+    "dosageForm": "liquid",
+    "din": "80043628",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "Solu-Cal green apple",
+    "strength": "100 mg/1.25 mL",
+    "dosageForm": "liquid",
+    "din": "80025527",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "Solu-Cal",
+    "strength": "20 mg/mL",
+    "dosageForm": "liquid",
+    "din": "80002626",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "Calcium",
+    "strength": "20 mg/mL",
+    "dosageForm": "liquid",
+    "din": "80006877",
+    "manufacturer": "Wampole"
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "Pharma-Cal",
+    "strength": "500 mg",
+    "dosageForm": "caplet",
+    "din": "80001122",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "calcium",
+    "strength": "500 mg",
+    "dosageForm": "tab chew",
+    "din": "00705373",
+    "manufacturer": "Wampole"
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "NU-CAL",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00618098",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "O-Calcium",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00622443",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "calcium",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00682039",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "calcium",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "02240240",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "calcium",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "02246040",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "oyster shell",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "80001408",
+    "manufacturer": "Nutricorp International"
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "calcium",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "80003658",
+    "manufacturer": "WN Pharmaceuticals Ltd."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "calcium",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "80003773",
+    "manufacturer": "Laboratoires Trianon Inc."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "CAL-500",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "80017732",
+    "manufacturer": "ProDoc Lt\u00e9e"
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "mcal",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "80055526",
+    "manufacturer": "Mantra Pharma Inc."
+  },
+  {
+    "chemicalName": "calcium",
+    "brandName": "calcium carbonate",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "80062015",
+    "manufacturer": "Sanis Health Inc."
+  },
+  {
+    "chemicalName": "calcium carbonate",
+    "brandName": "TUMS ultra strength",
+    "strength": "1000 mg",
+    "dosageForm": "tab chew",
+    "din": "02151138",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "calcium carbonate",
+    "brandName": "TUMS",
+    "strength": "500 mg",
+    "dosageForm": "tab chew",
+    "din": "01970240",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "calcium carbonate",
+    "brandName": "TUMS extra strength",
+    "strength": "750 mg",
+    "dosageForm": "tab chew",
+    "din": "01967932",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "calcium polystyrene sulfonate",
+    "brandName": "Resonium",
+    "strength": "999 mg/g",
+    "dosageForm": "powder for \nsolution",
+    "din": "02017741",
+    "manufacturer": "Sanofi-Aventis Canada Inc."
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "Carbocal",
+    "strength": "500 mg/400 IU",
+    "dosageForm": "tablet",
+    "din": "02245511",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "calcium + vitamin D",
+    "strength": "500 mg/400 IU",
+    "dosageForm": "tablet",
+    "din": "80004969",
+    "manufacturer": "Laboratoires Trianon Inc."
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "mcal",
+    "strength": "500 mg/400 IU",
+    "dosageForm": "tablet",
+    "din": "80009412",
+    "manufacturer": "Mantra Pharma Inc."
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "Biocal-D strong/fort",
+    "strength": "500 mg/400 IU",
+    "dosageForm": "tablet",
+    "din": "80012594",
+    "manufacturer": "Biomed Pharma"
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "calcium + vitamin D",
+    "strength": "500 mg/400 IU",
+    "dosageForm": "tablet",
+    "din": "80002122",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "calcium + vitamin D (lemon flavour)",
+    "strength": "500 mg/400 IU",
+    "dosageForm": "tablet",
+    "din": "80002623",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "NU-CAL D",
+    "strength": "500 mg/400 IU",
+    "dosageForm": "tablet",
+    "din": "80002703",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "CALCITE 500 D 400",
+    "strength": "500 mg/400 IU",
+    "dosageForm": "tablet",
+    "din": "80004963",
+    "manufacturer": "Laboratoire Riva Inc."
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "calcium",
+    "strength": "500 mg/400 IU",
+    "dosageForm": "tablet",
+    "din": "80027026",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "calcium vitamin D",
+    "brandName": "Solu-Cal D; Solu-Cal D 400; Solu-Cal D green applie flavour",
+    "strength": "500 mg/400 \nIU/25 mL",
+    "dosageForm": "liquid",
+    "din": "80008126",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "capsaicin",
+    "brandName": "ZOSTRIX",
+    "strength": "0.03%",
+    "dosageForm": "cream",
+    "din": "00740306",
+    "manufacturer": "Bausch Health, Canada Inc."
+  },
+  {
+    "chemicalName": "capsaicin",
+    "brandName": "capsaicin",
+    "strength": "0.03%",
+    "dosageForm": "cream",
+    "din": "02157101",
+    "manufacturer": "Bausch Health, Canada Inc."
+  },
+  {
+    "chemicalName": "capsaicin",
+    "brandName": "ZOSTRIX HP",
+    "strength": "0.08%",
+    "dosageForm": "cream",
+    "din": "02004240",
+    "manufacturer": "Bausch Health, Canada Inc."
+  },
+  {
+    "chemicalName": "capsaicin",
+    "brandName": "capsaicin",
+    "strength": "0.08%",
+    "dosageForm": "cream",
+    "din": "02157128",
+    "manufacturer": "Bausch Health, Canada Inc."
+  },
+  {
+    "chemicalName": "cetirizine",
+    "brandName": "cetirizine",
+    "strength": "10 mg",
+    "dosageForm": "tablet",
+    "din": "02451778",
+    "manufacturer": "JAMP PHARMA CORPORATION"
+  },
+  {
+    "chemicalName": "cetirizine",
+    "brandName": "cetirizine",
+    "strength": "10 mg",
+    "dosageForm": "tablet",
+    "din": "02231603",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "cetirizine",
+    "brandName": "Reactine",
+    "strength": "1 mg/mL",
+    "dosageForm": "syrup",
+    "din": "02238337",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "cetirizine",
+    "brandName": "Cetirizine Extra Strength",
+    "strength": "10 mg",
+    "dosageForm": "tablet",
+    "din": "02517566",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "chlorpheniramine",
+    "brandName": "Pheniram",
+    "strength": "4 mg",
+    "dosageForm": "tablet",
+    "din": "00021288",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "citric acid, magnesium oxide, sodium picosulfate",
+    "brandName": "Purg-Odan",
+    "strength": "10 mg-12 g",
+    "dosageForm": "powder",
+    "din": "02317966",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "citric acid, magnesium oxide, sodium picosulfate",
+    "brandName": "Pico-Salax",
+    "strength": "10 mg-12 g",
+    "dosageForm": "powder",
+    "din": "02254794",
+    "manufacturer": "Ferring Inc."
+  },
+  {
+    "chemicalName": "citric acid, sodium citrate",
+    "brandName": "dicitrate",
+    "strength": "66.8 mg/mL, \n100 mg/mL",
+    "dosageForm": "solution",
+    "din": "00721344",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "clobetasone butyrate",
+    "brandName": "Spectro Exzemacare",
+    "strength": "0.05%",
+    "dosageForm": "cream",
+    "din": "02214415",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "clotrimazole",
+    "brandName": "Clotrimaderm",
+    "strength": "1%",
+    "dosageForm": "cream",
+    "din": "00812382",
+    "manufacturer": "Taro Pharmaceuticals"
+  },
+  {
+    "chemicalName": "clotrimazole",
+    "brandName": "Clotrimaderm",
+    "strength": "1%",
+    "dosageForm": "cream/appl",
+    "din": "00812366",
+    "manufacturer": "Taro Pharmaceuticals"
+  },
+  {
+    "chemicalName": "clotrimazole",
+    "brandName": "Clotrimaderm 3",
+    "strength": "2%",
+    "dosageForm": "cream/appl",
+    "din": "00812374",
+    "manufacturer": "Taro Pharmaceuticals"
+  },
+  {
+    "chemicalName": "clotrimazole",
+    "brandName": "Canesten ComforTAB 3",
+    "strength": "200 mg",
+    "dosageForm": "vaginal tablet",
+    "din": "02150840",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "clotrimazole",
+    "brandName": "Canesten ComforTAB 1",
+    "strength": "500 mg",
+    "dosageForm": "vaginal tablet",
+    "din": "02150859",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "clotrimazole",
+    "brandName": "Canesten 1 day",
+    "strength": "10%",
+    "dosageForm": "cream/appl",
+    "din": "02150883",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "clotrimazole",
+    "brandName": "Canesten 6 day",
+    "strength": "1%",
+    "dosageForm": "cream/appl",
+    "din": "02150891",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "clotrimazole",
+    "brandName": "Canesten 3 day",
+    "strength": "2%",
+    "dosageForm": "cream/appl",
+    "din": "02150905",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "clotrimazole combipak",
+    "brandName": "CANESTEN COMBI 3 DAY \nCOMFORTAB + EXTERNAL CREAM",
+    "strength": "200 mg-1%",
+    "dosageForm": "vaginal tablet, kit, cream",
+    "din": "02264099",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "clotrimazole combipak",
+    "brandName": "CANESTEN COMBI 1 DAY \nCOMFORTAB + EXTERNAL CREAM",
+    "strength": "500 mg-1%",
+    "dosageForm": "vaginal tablet, kit, cream",
+    "din": "02264102",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "coal tar",
+    "brandName": "NEUTROGENA T/GEL THERAPEUTIC SHAMPOO",
+    "strength": "0.50%",
+    "dosageForm": "shampoo",
+    "din": "02240645",
+    "manufacturer": "Johnson & Johnson Inc."
+  },
+  {
+    "chemicalName": "coal tar",
+    "brandName": "TARGEL",
+    "strength": "10%",
+    "dosageForm": "gel",
+    "din": "00344508",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "coal tar",
+    "brandName": "ODANS LIQUOR CARBONIS \nDETERGENS",
+    "strength": "20%",
+    "dosageForm": "solution",
+    "din": "00358495",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "crotamiton",
+    "brandName": "EURAX CREAM 10%",
+    "strength": "10%",
+    "dosageForm": "cream",
+    "din": "00623377",
+    "manufacturer": "Columbia Laboratories Canada Inc."
+  },
+  {
+    "chemicalName": "cyanocobalamin",
+    "brandName": "Cyanocobalamin Injection Usp",
+    "strength": "1000 mcg/mL",
+    "dosageForm": "solution",
+    "din": "02463393",
+    "manufacturer": "Hikma Canada Ltd."
+  },
+  {
+    "chemicalName": "cyanocobalamin",
+    "brandName": "Cyanocobalamin Injection Usp",
+    "strength": "1000 mcg/mL",
+    "dosageForm": "solution",
+    "din": "02465507",
+    "manufacturer": "Hikma Canada Ltd."
+  },
+  {
+    "chemicalName": "desloratadine",
+    "brandName": "AERIUS KIDS",
+    "strength": "0.5 mg/mL",
+    "dosageForm": "syrup",
+    "din": "02247193",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "desloratadine",
+    "brandName": "AERIUS",
+    "strength": "5 mg",
+    "dosageForm": "tablet",
+    "din": "02243919",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "desloratadine",
+    "brandName": "DESLORATADINE ALLERGY CONTROL",
+    "strength": "5 mg",
+    "dosageForm": "tablet",
+    "din": "02298155",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "desloratadine",
+    "brandName": "DESLORATADINE TABLETS",
+    "strength": "5 mg",
+    "dosageForm": "tablet",
+    "din": "02338424",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "dextran 70, hypromellose",
+    "brandName": "TEARS NATURALE FREE",
+    "strength": "0.1%-0.3%",
+    "dosageForm": "drops",
+    "din": "01943308",
+    "manufacturer": "Alcon Canada Inc."
+  },
+  {
+    "chemicalName": "dextran 70, hypromellose",
+    "brandName": "TEARS NATURALE II",
+    "strength": "0.1%-0.3%",
+    "dosageForm": "drops",
+    "din": "00743445",
+    "manufacturer": "Alcon Canada Inc."
+  },
+  {
+    "chemicalName": "diclofenac diethylamine",
+    "brandName": "VOLTAREN EMULGEL BACK & MUSCLE PAIN",
+    "strength": "1.16%",
+    "dosageForm": "gel",
+    "din": "02465035",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "diclofenac diethylamine",
+    "brandName": "VOLTAREN EMULGEL JOINT PAIN REGULAR STRENGTH",
+    "strength": "1.16%",
+    "dosageForm": "gel",
+    "din": "02338580",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "diclofenac diethylamine",
+    "brandName": "VOLTAREN EMULGEL EXTRA \nSTRENGTH",
+    "strength": "2.32%",
+    "dosageForm": "gel",
+    "din": "02393190",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "diclofenac diethylamine",
+    "brandName": "VOLTAREN EMULGEL JOINT PAIN EXTRA STRENGTH",
+    "strength": "2.32%",
+    "dosageForm": "gel",
+    "din": "02465043",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "dimenhydrinate",
+    "brandName": "PMS-DIMENHYDRINATE SYR \n3MG/ML",
+    "strength": "3 mg/mL",
+    "dosageForm": "syrup",
+    "din": "00757705",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "dimenhydrinate",
+    "brandName": "KIDS GRAVOL LIQUID",
+    "strength": "15 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "00230197",
+    "manufacturer": "Church & Dwight Canada Corp."
+  },
+  {
+    "chemicalName": "dimenhydrinate",
+    "brandName": "KIDS GRAVOL SUPPOSITORIES",
+    "strength": "25 mg",
+    "dosageForm": "supp rect",
+    "din": "00783595",
+    "manufacturer": "Church & Dwight Canada Corp."
+  },
+  {
+    "chemicalName": "dimenhydrinate",
+    "brandName": "CONFAB DIMENHYDRINATE 50 MG",
+    "strength": "50 mg",
+    "dosageForm": "supp rect",
+    "din": "00392553",
+    "manufacturer": "Laboratoires Confab Inc."
+  },
+  {
+    "chemicalName": "dimenhydrinate",
+    "brandName": "JAMP-DIMENHYDRINATE",
+    "strength": "50 mg",
+    "dosageForm": "tablet",
+    "din": "02245416",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "dimenhydrinate",
+    "brandName": "APO DIMENHYDRINATE TAB 50MG",
+    "strength": "50 mg",
+    "dosageForm": "tablet",
+    "din": "00363766",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "dimenhydrinate",
+    "brandName": "DIMENHYDRINATE INJ 50MG USP",
+    "strength": "50 mg/mL",
+    "dosageForm": "vial",
+    "din": "00392537",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "dimenhydrinate",
+    "brandName": "Gravol Suppositories",
+    "strength": "100mg",
+    "dosageForm": "supp. Rect",
+    "din": "00013609",
+    "manufacturer": "Church & Dwight Canada Corp."
+  },
+  {
+    "chemicalName": "dimethicone",
+    "brandName": "NYDA",
+    "strength": "50%",
+    "dosageForm": "liquid",
+    "din": "02373785",
+    "manufacturer": "G POHL-BOSKAMP GMBH + CO KG"
+  },
+  {
+    "chemicalName": "dimethicone (silicone)",
+    "brandName": "BARRIERE CREAM 20%",
+    "strength": "20%",
+    "dosageForm": "cream",
+    "din": "02060841",
+    "manufacturer": "Wellspring Pharmaceutical Canada Corp."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "BENADRYL ALLERGY LIQUID",
+    "strength": "12.5 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "02019736",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "diphenhydramine hydrochloride elixir",
+    "strength": "12.5 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "02298503",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "Allergy elixir",
+    "strength": "12.5 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "00833266",
+    "manufacturer": "Tanta Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "diphenhydramine elixir 2.5mg/mL",
+    "strength": "12.5 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "00792705",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "Allergy formula",
+    "strength": "25 mg",
+    "dosageForm": "caplet/tablet",
+    "din": "02229492",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "Allernix",
+    "strength": "25 mg",
+    "dosageForm": "caplet/tablet",
+    "din": "02097583",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "Benadryl Allergy",
+    "strength": "25 mg",
+    "dosageForm": "caplet/tablet",
+    "din": "02017849",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "PDP-diphenhydramine",
+    "strength": "25 mg",
+    "dosageForm": "capsule",
+    "din": "00757683",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "ALLERGY TABLETS 25MG",
+    "strength": "25 mg",
+    "dosageForm": "tablet",
+    "din": "01949454",
+    "manufacturer": "Tanta Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "JAMP DIPHENHYDRAMINE 25 MG",
+    "strength": "25 mg",
+    "dosageForm": "tablet",
+    "din": "02257548",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "ALLERNIX EXTRA STRENGTH",
+    "strength": "50 mg",
+    "dosageForm": "caplet",
+    "din": "02097575",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "PDP-DIPHENHYDRAMINE EXTRA STRENGTH/ EXTRA FORT",
+    "strength": "50 mg",
+    "dosageForm": "capsule",
+    "din": "00757691",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "JAMP DIPHENHYDRAMINE 50 MG",
+    "strength": "50 mg",
+    "dosageForm": "tablet",
+    "din": "02257556",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "DIPHENHYDRAMINE \nHYDROCHLORIDE INJECTION USP",
+    "strength": "50 mg/mL",
+    "dosageForm": "liquid",
+    "din": "00596612",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "DIPHENIST 50MG/ML",
+    "strength": "50 mg/mL",
+    "dosageForm": "liquid",
+    "din": "02219336",
+    "manufacturer": "Omega Laboratories Ltd."
+  },
+  {
+    "chemicalName": "diphenhydramine",
+    "brandName": "CHILDREN'S BENADRYL ALLERGY LIQUID",
+    "strength": "6.25 mg/5 mL",
+    "dosageForm": "liquid",
+    "din": "02019698",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "electrolyte solution/peg's",
+    "brandName": "PEGLYTE POWDER",
+    "strength": "238.18 g - 22.96 g",
+    "dosageForm": "powder",
+    "din": "00777838",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "electrolyte solution/peg's",
+    "brandName": "COLYTE",
+    "strength": "857.69 mg/g - \n81.2 mg/g",
+    "dosageForm": "powder",
+    "din": "00677442",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "electrolytes",
+    "brandName": "PEDIATRIC ELECTROLYTE SOLUTION - UNFLAVOURED; PEDIATRIC \nELECTROLYTE",
+    "strength": "30 mEq/L - 45 \nmEq/L",
+    "dosageForm": "solution",
+    "din": "02219883",
+    "manufacturer": "Pharmascience Inc. / Pendopharms, Division of Pharmascience Inc."
+  },
+  {
+    "chemicalName": "electrolytes",
+    "brandName": "HYDRALYTE ELECTROLYTE \nMAINTENANCE POWDER; \nELECTROLYTE MAINTENANCE POWDER",
+    "strength": "321.5 mg/200 \nmL - 208 \nmg/200 mL",
+    "dosageForm": "powder",
+    "din": "80026860",
+    "manufacturer": "Hydration Pharmaceutical Trust"
+  },
+  {
+    "chemicalName": "electrolytes",
+    "brandName": "HYDRALYTE ELECTROLYTE \nMAINTENANCE SOLUTION",
+    "strength": "5.61 mg/mL \n1.06 mg/mL",
+    "dosageForm": "solution",
+    "din": "80026861",
+    "manufacturer": "Hydration Pharmaceutical Trust"
+  },
+  {
+    "chemicalName": "electrolytes/dextrose",
+    "brandName": "PEDIALYTE\u00ae UNFLAVOURED; \nPEDIALYTE\u00ae FREEZER POPS; \nPEDIALYTE\u00ae FRUIT FLAVOUR; PEDIALYTE\u00ae GRAPE FLAVOUR",
+    "strength": "1.244 g/L - 1.037 g/L",
+    "dosageForm": "liquid",
+    "din": "00630365",
+    "manufacturer": "Abbott Laboratories Co."
+  },
+  {
+    "chemicalName": "enema",
+    "brandName": "ENEMOL (SODIUM PHOSPHATE ENEMA); LAX-A NEMA; LAX-A NEMA PEDIATRIC",
+    "strength": "16.0 g - 6.0 g",
+    "dosageForm": "enema/liquid",
+    "din": "02096900",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "enema",
+    "brandName": "FLEET\u00ae ENEMA",
+    "strength": "160 g/L - 60 g/L",
+    "dosageForm": "enema/solution",
+    "din": "00009911",
+    "manufacturer": "C.B. Fleet Company Inc."
+  },
+  {
+    "chemicalName": "enema ped",
+    "brandName": "FLEET\u00ae ENEMA PEDIATRIC",
+    "strength": "1.6 g/L - 0.6 g/L",
+    "dosageForm": "enema/solution",
+    "din": "00108065",
+    "manufacturer": "C.B. Fleet Company Inc."
+  },
+  {
+    "chemicalName": "epinephrine",
+    "brandName": "EPIPEN 0.3MG/0.3ML AUTO \nINJECTOR",
+    "strength": "0.3 mg/0.3 mL",
+    "dosageForm": "autoinjector",
+    "din": "00509558",
+    "manufacturer": "Mylan Specialty LP"
+  },
+  {
+    "chemicalName": "epinephrine",
+    "brandName": "EPIPEN JR 0.15MG/0.3ML AUTO INJECTOR",
+    "strength": "0.15 mg/0.3 mL",
+    "dosageForm": "autoinjector",
+    "din": "00578657",
+    "manufacturer": "Mylan Specialty LP"
+  },
+  {
+    "chemicalName": "epinephrine",
+    "brandName": "ALLERJECT 0.3MG/0.3ML AUTO INJECTOR",
+    "strength": "0.3 mg/0.3 mL",
+    "dosageForm": "autoinjector",
+    "din": "02382067",
+    "manufacturer": "Kaleo Inc"
+  },
+  {
+    "chemicalName": "epinephrine",
+    "brandName": "ALLERJECT 0.15MG/0.3ML AUTO INJECTOR",
+    "strength": "0.15 mg/0.3 mL",
+    "dosageForm": "autoinjector",
+    "din": "02382059",
+    "manufacturer": "Kaleo Inc"
+  },
+  {
+    "chemicalName": "epinephrine",
+    "brandName": "EMERADE 0.5MG/0.5ML AUTO INJECTOR",
+    "strength": "0.5 mg/0.5 mL",
+    "dosageForm": "autoinjector",
+    "din": "02458454",
+    "manufacturer": "Bausch Health, Canada Inc."
+  },
+  {
+    "chemicalName": "epinephrine",
+    "brandName": "EMERADE 0.3MG/0.3ML AUTO INJECTOR",
+    "strength": "0.3 mg/0.3 mL",
+    "dosageForm": "autoinjector",
+    "din": "02458446",
+    "manufacturer": "Bausch Health, Canada Inc."
+  },
+  {
+    "chemicalName": "ferrous fumarate 300 mg",
+    "brandName": "JAMP-FER",
+    "strength": "300 mg",
+    "dosageForm": "capsule",
+    "din": "80024232",
+    "manufacturer": "Jamp Pharma Corporation"
+  },
+  {
+    "chemicalName": "ferrous fumarate 300(100) mg",
+    "brandName": "EURO-FER; SANDOZ FER",
+    "strength": "300 mg",
+    "dosageForm": "capsule",
+    "din": "02237556",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "ferrous fumarate 300(100) mg",
+    "brandName": "FERROUS FUMARATE",
+    "strength": "300 mg",
+    "dosageForm": "tablet",
+    "din": "00031089",
+    "manufacturer": "Wampole, Division of Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "ferrous fumarate 300(100)/5",
+    "brandName": "PALAFER\u00ae",
+    "strength": "60 mg/mL",
+    "dosageForm": "suspension",
+    "din": "01923439",
+    "manufacturer": "Bausch Health, Canada Inc."
+  },
+  {
+    "chemicalName": "ferrous gluconate 300(35) mg",
+    "brandName": "NOVO-FERROGLUC 300 MG TAB; FERROUS GLUCONATE; FERROGLUC",
+    "strength": "300 mg",
+    "dosageForm": "tablet",
+    "din": "80000435",
+    "manufacturer": "Nutricorp International"
+  },
+  {
+    "chemicalName": "ferrous gluconate 300(35) mg",
+    "brandName": "WAMPOLE FERROUS GLUCONATE TABLETS 300 MG",
+    "strength": "300 mg",
+    "dosageForm": "tablet",
+    "din": "80009681",
+    "manufacturer": "Wampole, Division of Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "ferrous gluconate 300(35) mg",
+    "brandName": "JAMP-FERROUS GLUCONATE",
+    "strength": "300 mg",
+    "dosageForm": "tablet",
+    "din": "00031097",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "ferrous gluconate 300(35) mg",
+    "brandName": "APO-FERROUS GLUCONATE",
+    "strength": "300 mg",
+    "dosageForm": "tablet",
+    "din": "00545031",
+    "manufacturer": "AA Pharma Inc."
+  },
+  {
+    "chemicalName": "ferrous sulfate 150(30)/5 sl",
+    "brandName": "PEDIAFER",
+    "strength": "30 mg/mL",
+    "dosageForm": "solution",
+    "din": "02242863",
+    "manufacturer": "Sandoz Canada"
+  },
+  {
+    "chemicalName": "ferrous sulfate 150(30)/5 sl",
+    "brandName": "FERODAN SYRUP",
+    "strength": "30 mg/mL",
+    "dosageForm": "solution",
+    "din": "00758469",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "ferrous sulfate 300(60) mg",
+    "brandName": "JAMP-FERROUS SULFATE",
+    "strength": "300 mg",
+    "dosageForm": "tablet",
+    "din": "00031100",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "ferrous sulfate 75(15) mg/mL",
+    "brandName": "PEDIAFER",
+    "strength": "15 mg/mL",
+    "dosageForm": "solution",
+    "din": "02232202",
+    "manufacturer": "Sandoz Canada"
+  },
+  {
+    "chemicalName": "ferrous sulfate 75(15) mg/mL",
+    "brandName": "FERODAN INFANT DROPS",
+    "strength": "15 mg/mL",
+    "dosageForm": "solution",
+    "din": "02237385",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "ferrous sulphate 150(30)/5 mL",
+    "brandName": "JAMP FERROUS SULPHATE LIQUID 150MG/5 ML",
+    "strength": "30 mg/mL",
+    "dosageForm": "liquid",
+    "din": "80008295",
+    "manufacturer": "Jamp Pharma Corporation"
+  },
+  {
+    "chemicalName": "ferrous sulphate 75(15) mg/mL",
+    "brandName": "JAMP FERROUS SULPHATE INFANT DROP 75MG/ML",
+    "strength": "15 mg/ml",
+    "dosageForm": "drops",
+    "din": "80008309",
+    "manufacturer": "Jamp Pharma Corporation"
+  },
+  {
+    "chemicalName": "fexofenadine",
+    "brandName": "ALLEGRA 24 HOUR",
+    "strength": "120 mg",
+    "dosageForm": "tablet",
+    "din": "02242819",
+    "manufacturer": "Sanofi Consumer Health Inc."
+  },
+  {
+    "chemicalName": "fexofenadine",
+    "brandName": "ALLEGRA 12 HOUR",
+    "strength": "60 mg",
+    "dosageForm": "tablet",
+    "din": "02231462",
+    "manufacturer": "Sanofi Consumer Health Inc."
+  },
+  {
+    "chemicalName": "fluoride (sodium)",
+    "brandName": "Fluor A Day Drops 5.56mg/Ml",
+    "strength": "2.5 mg/mL",
+    "dosageForm": "drops",
+    "din": "00610100",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "folic acid",
+    "brandName": "FOLIC ACID",
+    "strength": "1 mg",
+    "dosageForm": "tablet",
+    "din": "00318973",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "folic acid",
+    "brandName": "FOLIC ACID TAB 1MG USP",
+    "strength": "1 mg",
+    "dosageForm": "tablet",
+    "din": "00647039",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "folic acid",
+    "brandName": "FOLIC ACID TABLETS USP 1 MG; ACIBION 1 MG; BEST FOLIC; FOLIC ACID, FOLIC ACID 1 MG; FOLIC ACID 1 MG TABLETS USP; FOLIC ACID TABLETS USP",
+    "strength": "1 mg",
+    "dosageForm": "tablet",
+    "din": "02048841",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "folic acid",
+    "brandName": "WAMPOLE FOLIC ACID; FOLIC ACID",
+    "strength": "1 mg",
+    "dosageForm": "tablet",
+    "din": "02236747",
+    "manufacturer": "Wampole, Division of Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "folic acid",
+    "brandName": "FOLIC ACID",
+    "strength": "1 mg",
+    "dosageForm": "tablet",
+    "din": "80000273",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "folic acid",
+    "brandName": "JAMP - FOLIC ACID",
+    "strength": "1 mg",
+    "dosageForm": "tablet",
+    "din": "80053274",
+    "manufacturer": "JAMP Pharma Corp."
+  },
+  {
+    "chemicalName": "glucagon",
+    "brandName": "Baqsimi",
+    "strength": "3 mg",
+    "dosageForm": "powder",
+    "din": "02492415",
+    "manufacturer": "Amphastar Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "glycerin suppository",
+    "brandName": "GLYCERIN SUPPOSITORIES",
+    "strength": "90%",
+    "dosageForm": "supp rect",
+    "din": "02020394",
+    "manufacturer": "Rougier Pharma, a division of Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "glycerin suppository",
+    "brandName": "GLYCERIN SUPPOSITORIES",
+    "strength": "90%",
+    "dosageForm": "supp rect",
+    "din": "00873462",
+    "manufacturer": "Rougier Pharma, a division of Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "glycerin suppository",
+    "brandName": "JAMP GLYCERIN SUPPOSITORY ADULT",
+    "strength": "2100 mg",
+    "dosageForm": "supp rect",
+    "din": "80029765",
+    "manufacturer": "JAMP Pharma Corp."
+  },
+  {
+    "chemicalName": "glycerin suppository",
+    "brandName": "GLYCERIN SUPPOSITORIES (ADULT SIZE) 2600MG; COLACE GLYCERIN",
+    "strength": "2600 mg",
+    "dosageForm": "supp rect",
+    "din": "01926039",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "glycerin suppository pediatric",
+    "brandName": "GLYCERIN SUPPOSITORIES",
+    "strength": "90%",
+    "dosageForm": "supp rect",
+    "din": "02020815",
+    "manufacturer": "Rougier Pharma, a division of Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "glycerin suppository pediatric",
+    "brandName": "GLYCERIN SUPPOSITORIES FOR INFANTS & CHILDREN; COLACE GLYCERIN",
+    "strength": "1440 mg",
+    "dosageForm": "supp rect",
+    "din": "01926047",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "gramicidin D/polymyx B sulf",
+    "brandName": "OPTIMYXIN",
+    "strength": "0.025 mg/mL \n10000 unit/mL",
+    "dosageForm": "drops",
+    "din": "00701785",
+    "manufacturer": "Euro-Pharm International Canada Inc."
+  },
+  {
+    "chemicalName": "gramicidin D/polymyx B sulf",
+    "brandName": "POLYSPORIN EYE AND EAR DROPS STERILE",
+    "strength": "0.025 mg/mL \n10000 unit/mL",
+    "dosageForm": "drops",
+    "din": "02239156",
+    "manufacturer": "Johnson & Johnson Inc."
+  },
+  {
+    "chemicalName": "gramicidin D/polymyx B sulf",
+    "brandName": "POLYSPORIN ANTIBIOTIC CREAM",
+    "strength": "0.25 mg/g \n10000 unit/g",
+    "dosageForm": "cream",
+    "din": "02230844",
+    "manufacturer": "Johnson & Johnson Inc."
+  },
+  {
+    "chemicalName": "hydrocortidone acetate",
+    "brandName": "HYDERM CREAM 1%",
+    "strength": "1%",
+    "dosageForm": "cream",
+    "din": "00716839",
+    "manufacturer": "Taro Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "CORTATE CREAM 0.5%",
+    "strength": "0.50%",
+    "dosageForm": "cream",
+    "din": "80021088",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "HYDROSONE CREAM",
+    "strength": "0.50%",
+    "dosageForm": "cream",
+    "din": "00564281",
+    "manufacturer": "Rougier Pharma, a division of Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "CORTATE OINTMENT USP 0.5%; HYDROCORTISONE OINTMENT USP 0.5%",
+    "strength": "0.50%",
+    "dosageForm": "oint (g)",
+    "din": "00716685",
+    "manufacturer": "Taro Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "CELL-HYDROCORTISONE CREAM 1%",
+    "strength": "1%",
+    "dosageForm": "cream",
+    "din": "80073687",
+    "manufacturer": "CellChem Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "JAMP-HYDROCORTISONE CREAM 1%",
+    "strength": "1%",
+    "dosageForm": "cream",
+    "din": "80057189",
+    "manufacturer": "Jamp Pharma Corporation"
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "JAMP-HYDROCORTISONE LOTION 1%",
+    "strength": "1%",
+    "dosageForm": "lotion",
+    "din": "80057191",
+    "manufacturer": "Jamp Pharma Corporation"
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "JAMP-HYDROCORTISONE OINTMENT 1%",
+    "strength": "1%",
+    "dosageForm": "oint (g)",
+    "din": "80057193",
+    "manufacturer": "Jamp Pharma Corporation"
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "M-HC 1% CREAM",
+    "strength": "1%",
+    "dosageForm": "cream",
+    "din": "80066164",
+    "manufacturer": "Mantra Pharma Inc."
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "SANDOZ HYDROCORTISONE CREAM 1%",
+    "strength": "1%",
+    "dosageForm": "cream",
+    "din": "02412926",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "hydrocortisone",
+    "brandName": "CORTODERM OINTMENT 1%",
+    "strength": "1%",
+    "dosageForm": "oint (g)",
+    "din": "00716693",
+    "manufacturer": "Taro Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "hydrocortisone acetate",
+    "brandName": "JAMP-HC CREAM 1%; JAMP \nHYDROCORTISONE ACETATE 1%",
+    "strength": "1%",
+    "dosageForm": "cream",
+    "din": "80057178",
+    "manufacturer": "Jamp Pharma Corporation"
+  },
+  {
+    "chemicalName": "hydrocortisone acetate/urea",
+    "brandName": "DERMAFLEX HC 1% LOTION",
+    "strength": "1%-10%",
+    "dosageForm": "lotion",
+    "din": "00681997",
+    "manufacturer": "Paladin Labs Inc."
+  },
+  {
+    "chemicalName": "hydrocortisone/pramoxine",
+    "brandName": "PRAMOX HC CREAM",
+    "strength": "1%-1%",
+    "dosageForm": "cream",
+    "din": "00770957",
+    "manufacturer": "Dermtek Pharmaceutique Ltee"
+  },
+  {
+    "chemicalName": "hydrocortisone/urea",
+    "brandName": "Jamp-Hydrocortisone Acetate 1% Urea 10% Cream",
+    "strength": "1%/10%",
+    "dosageForm": "cream (g)",
+    "din": "80061501",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "hydroxypropyl cellulose",
+    "brandName": "LACRISERT",
+    "strength": "5 mg",
+    "dosageForm": "insert",
+    "din": "02250624",
+    "manufacturer": "Bausch Health, Canada Inc."
+  },
+  {
+    "chemicalName": "hyoscine",
+    "brandName": "Accel-Hyoscine",
+    "strength": "10 mg",
+    "dosageForm": "tablet",
+    "din": "02512335",
+    "manufacturer": "Accel Pharma Inc."
+  },
+  {
+    "chemicalName": "hypromellose",
+    "brandName": "GENTEAL",
+    "strength": "0.30%",
+    "dosageForm": "solution",
+    "din": "02231289",
+    "manufacturer": "Alcon Canada Inc."
+  },
+  {
+    "chemicalName": "hypromellose",
+    "brandName": "ISOPTO TEARS 0.5%",
+    "strength": "0.50%",
+    "dosageForm": "solution",
+    "din": "00000809",
+    "manufacturer": "Alcon Canada Inc."
+  },
+  {
+    "chemicalName": "hypromellose",
+    "brandName": "ISOPTO TEARS 1%",
+    "strength": "1%",
+    "dosageForm": "solution",
+    "din": "00000817",
+    "manufacturer": "Alcon Canada Inc."
+  },
+  {
+    "chemicalName": "ibuprofen",
+    "brandName": "APO-IBUPROFEN",
+    "strength": "200 mg",
+    "dosageForm": "tablet",
+    "din": "00441643",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "ibuprofen",
+    "brandName": "APO-IBUPROFEN",
+    "strength": "400 mg",
+    "dosageForm": "tablet",
+    "din": "00506052",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "ibuprofen",
+    "brandName": "CHILDREN'S ADVIL",
+    "strength": "100 mg/5 mL",
+    "dosageForm": "oral susp",
+    "din": "02232297",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "ibuprofen",
+    "brandName": "INFANT'S MOTRIN",
+    "strength": "40 mg/mL",
+    "dosageForm": "drops",
+    "din": "02238626",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "ibuprofen",
+    "brandName": "CHILDREN'S MOTRIN",
+    "strength": "100 mg/5 mL",
+    "dosageForm": "oral susp",
+    "din": "02242365",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "ibuprofen",
+    "brandName": "JUNIOR STRENGTH ADVIL",
+    "strength": "100 mg",
+    "dosageForm": "tab chew",
+    "din": "02246403",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "ibuprofen",
+    "brandName": "JAMP-IBUPROFEN",
+    "strength": "200 mg",
+    "dosageForm": "tablet",
+    "din": "02257912",
+    "manufacturer": "Jamp Pharma Corporation"
+  },
+  {
+    "chemicalName": "ibuprofen",
+    "brandName": "ADVIL PEDIATRIC DROPS",
+    "strength": "40 mg/mL",
+    "dosageForm": "drops",
+    "din": "02242522",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "ibuprofen",
+    "brandName": "IBUPROFEN TABLETS",
+    "strength": "200 mg",
+    "dosageForm": "tablet",
+    "din": "02368072",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "isopropyl myristate",
+    "brandName": "RESULTZ",
+    "strength": "50%/w/w",
+    "dosageForm": "solution",
+    "din": "02279592",
+    "manufacturer": "Aralez Pharmaceuticals Canada Inc."
+  },
+  {
+    "chemicalName": "ketoconazole",
+    "brandName": "NIZORAL",
+    "strength": "2%",
+    "dosageForm": "shampoo",
+    "din": "02182920",
+    "manufacturer": "Kramer Laboratories Inc."
+  },
+  {
+    "chemicalName": "lactase",
+    "brandName": "LACTOMAX EXTRA",
+    "strength": "45 mg \n(4500.0 FCC LU)",
+    "dosageForm": "tablet",
+    "din": "02224909",
+    "manufacturer": "Sterimax Inc."
+  },
+  {
+    "chemicalName": "lactase",
+    "brandName": "LACTEEZE DROPS",
+    "strength": "",
+    "dosageForm": "solution",
+    "din": "11200022",
+    "manufacturer": "Aurium Pharma"
+  },
+  {
+    "chemicalName": "lactase (beta-galactosidase)",
+    "brandName": "LACTAID Ultra; LACTAID Fast Act Caplets",
+    "strength": "9000.0 FCC LU",
+    "dosageForm": "tablet",
+    "din": "02231507",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "lactase (beta-galactosidase)",
+    "brandName": "LACTAID REGULAR STRENGTH",
+    "strength": "3000.0 unit",
+    "dosageForm": "tablet",
+    "din": "02230653",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "lactase (beta-galactosidase)",
+    "brandName": "LACTAID EXTRA STRENGTH",
+    "strength": "4500.0 FCC LU",
+    "dosageForm": "tablet",
+    "din": "02230654",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "lactase (galactosidase",
+    "brandName": "DAIRY DIGESTIVE; DAIRY DIGESTIVE SUPPLEMENT; EXTRA STRENGTH DAIRY DIGESTIVE; LACTASE ENZYME; LACTO+",
+    "strength": "4500.0 FCC units",
+    "dosageForm": "caplet",
+    "din": "02239140",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "lactase (galactosidase)",
+    "brandName": "DAIRY DIGESTIVE; DAIRY DIGESTIVE SUPPLEMENT; LACTASE ENZYME; REGULAR STRENGTH DAIRY \nDIGESTIVE",
+    "strength": "3000.0 FCC units",
+    "dosageForm": "caplet",
+    "din": "02239139",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "lactulose",
+    "brandName": "JAMP-LACTULOSE",
+    "strength": "10 g/15 mL (667 mg/mL)",
+    "dosageForm": "solution",
+    "din": "02295881",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "lactulose",
+    "brandName": "LACTULOSE",
+    "strength": "10 g/15 mL (667 mg/mL)",
+    "dosageForm": "solution",
+    "din": "02412268",
+    "manufacturer": "Sanis Health Inc."
+  },
+  {
+    "chemicalName": "lactulose",
+    "brandName": "PHARMA-LACTULOSE",
+    "strength": "10 g/15 mL (667 mg/mL)",
+    "dosageForm": "solution",
+    "din": "02247383",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "lactulose",
+    "brandName": "PMS-LACTULOSE SYR 667MG/ML",
+    "strength": "10 g/15 mL (667 mg/mL)",
+    "dosageForm": "solution",
+    "din": "00703486",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "lactulose",
+    "brandName": "RATIO-LACTULOSE",
+    "strength": "10 g/15 mL (667 mg/mL)",
+    "dosageForm": "solution",
+    "din": "00854409",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "lactulose",
+    "brandName": "TEVA-LACTULOSE",
+    "strength": "10 g/15 mL (667 mg/mL)",
+    "dosageForm": "solution",
+    "din": "02331551",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "lactulose",
+    "brandName": "APO-LACTULOSE",
+    "strength": "10 g/15 mL (667 mg/mL)",
+    "dosageForm": "solution",
+    "din": "02242814",
+    "manufacturer": "Apotex Inc. (Bajaj Medical LLC)"
+  },
+  {
+    "chemicalName": "lactulose",
+    "brandName": "PMS-LACTULOSE-PHARMA",
+    "strength": "10 g/15 mL (667 mg/mL)",
+    "dosageForm": "solution",
+    "din": "02469391",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "lidocaine",
+    "brandName": "Lidodan Viscous 2%",
+    "strength": "2%",
+    "dosageForm": "solution",
+    "din": "01968823",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "lidocaine/prilocaine",
+    "brandName": "EMLA CREAM",
+    "strength": "2.50%",
+    "dosageForm": "cream",
+    "din": "00886858",
+    "manufacturer": "Aspen Pharmacare Canada Inc."
+  },
+  {
+    "chemicalName": "lidocaine/prilocaine",
+    "brandName": "EMLA PATCH",
+    "strength": "2.50%",
+    "dosageForm": "patch",
+    "din": "02057794",
+    "manufacturer": "Aspen Pharmacare Canada Inc."
+  },
+  {
+    "chemicalName": "loperamide hydrochloride",
+    "brandName": "Teva-loperamide",
+    "strength": "2 mg",
+    "dosageForm": "tablet",
+    "din": "02132591",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "loperamide hydrochloride",
+    "brandName": "PMS-LOPERAMIDE CAPLET 2MG",
+    "strength": "2 mg",
+    "dosageForm": "tablet",
+    "din": "02228351",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "loperamide hydrochloride",
+    "brandName": "DIARRHEA RELIEF",
+    "strength": "2 mg",
+    "dosageForm": "tablet",
+    "din": "02256452",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "loperamide hydrochloride",
+    "brandName": "APO-LOPERAMIDE TABLET 2MG",
+    "strength": "2 mg",
+    "dosageForm": "tablet",
+    "din": "02212005",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "loratadine",
+    "brandName": "24 HOUR ALLERGY REMEDY",
+    "strength": "10 mg",
+    "dosageForm": "tablet",
+    "din": "02280159",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "loratadine",
+    "brandName": "ALLERTIN",
+    "strength": "10 mg",
+    "dosageForm": "tablet",
+    "din": "02418959",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "loratadine",
+    "brandName": "APO-LORATADINE",
+    "strength": "10 mg",
+    "dosageForm": "tablet",
+    "din": "02243880",
+    "manufacturer": "Apotex Inc."
+  },
+  {
+    "chemicalName": "loratadine",
+    "brandName": "CLARITIN ALLERGY",
+    "strength": "10 mg",
+    "dosageForm": "tablet",
+    "din": "00782696",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "loratadine",
+    "brandName": "CLARITIN KIDS",
+    "strength": "5 mg/5 mL (1 \nmg/mL)",
+    "dosageForm": "syrup",
+    "din": "02241523",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "macrogol, propylene glycol",
+    "brandName": "LUBRICATING NASAL MIST",
+    "strength": "15%/20%",
+    "dosageForm": "metered-dose \naerosol",
+    "din": "00551813",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "macrogol, propylene glycol",
+    "brandName": "SECARIS",
+    "strength": "15%/20%",
+    "dosageForm": "gel",
+    "din": "00551805",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "macrogol, propylene glycol",
+    "brandName": "RHINARIS NASAL GEL",
+    "strength": "15%/20%",
+    "dosageForm": "gel",
+    "din": "02352699",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "macrogol, propylene glycol",
+    "brandName": "LUBRICATING NASAL GEL",
+    "strength": "15%/20%",
+    "dosageForm": "gel",
+    "din": "02220806",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "macrogol, propylene glycol",
+    "brandName": "LUBRICATING NASAL MIST",
+    "strength": "15%/5%",
+    "dosageForm": "metered-dose \naerosol",
+    "din": "00732230",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "macrogol, propylene glycol",
+    "brandName": "RHINARIS NASAL MIST",
+    "strength": "15%/5%",
+    "dosageForm": "spray",
+    "din": "02354551",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "magnesium",
+    "brandName": "MAGNESIUM 100MG; MAGNESIUM 100MG (EXTRA STRENGTH)",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "02068400",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "magnesium",
+    "brandName": "JAMP-MAGNESIUM 100MG",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "80041590",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "magnesium",
+    "brandName": "MAGNESIUM GLUCEPTATE LIQUID; JAMP-MAGNESIUM",
+    "strength": "100 mg/mL",
+    "dosageForm": "liquid",
+    "din": "80009357",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "magnesium citrate",
+    "brandName": "CITRO-MAG SOLUTION; CITRO-MAG (CHERRY FLAVOUR)",
+    "strength": "50 mg/mL",
+    "dosageForm": "solution",
+    "din": "00262609",
+    "manufacturer": "Rougier Pharma, a division of Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "magnesium citrate",
+    "brandName": "CITRODAN",
+    "strength": "50 mg/mL",
+    "dosageForm": "solution",
+    "din": "80001809",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "magnesium glucoheptonate",
+    "brandName": "MAGNESIUM-ODAN",
+    "strength": "5 mg/mL",
+    "dosageForm": "solution",
+    "din": "80004109",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "magnesium glucoheptonate",
+    "brandName": "ROUGIER-MAGNESIUM; ROUGIER MAGNESIUM SUCROSE FREE",
+    "strength": "100 mg/mL",
+    "dosageForm": "solution",
+    "din": "00026697",
+    "manufacturer": "Rougier Pharma, a division of Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "magnesium gluconate",
+    "brandName": "MAGLUCATE",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00555126",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "magnesium hydroxide",
+    "brandName": "PHILLIPS\u00ae MILK OF MAGNESIA; PHILLIPS\u00ae MILK OF MAGNESIA FRESH MINT; PHILLIPS\u00ae MILK OF MAGNESIA WILD CHERRY",
+    "strength": "80 mg/mL",
+    "dosageForm": "liquid",
+    "din": "02150646",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "magnesium oxide",
+    "brandName": "MAGNESIUM OXIDE 420MG",
+    "strength": "420 mg",
+    "dosageForm": "tablet",
+    "din": "00299448",
+    "manufacturer": "Swiss Herbal"
+  },
+  {
+    "chemicalName": "miconazole 2%",
+    "brandName": "MICATIN MICONAZOLE NITRATE CREAM 2% USP",
+    "strength": "2%",
+    "dosageForm": "cream topical",
+    "din": "02085852",
+    "manufacturer": "Wellspring Pharmaceutical Canada Corp."
+  },
+  {
+    "chemicalName": "miconazole 2%",
+    "brandName": "MICONAZOLE",
+    "strength": "2%",
+    "dosageForm": "cream vag",
+    "din": "02231106",
+    "manufacturer": "Taro Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "miconazole nitrate",
+    "brandName": "MONISTAT 7 DUAL-PAK",
+    "strength": "100 mg-2%",
+    "dosageForm": "supp vag/ cream",
+    "din": "02126257",
+    "manufacturer": "Insight Pharmaceuticals LLC"
+  },
+  {
+    "chemicalName": "miconazole nitrate",
+    "brandName": "MICONAZOLE 3 DAY OVULE \nTREATMENT 400MG",
+    "strength": "400 mg",
+    "dosageForm": "supp vag",
+    "din": "02171775",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "miconazole nitrate",
+    "brandName": "MONISTAT 3 VAGINAL OVULES",
+    "strength": "400 mg",
+    "dosageForm": "supp vag",
+    "din": "02126605",
+    "manufacturer": "Insight Pharmaceuticals LLC"
+  },
+  {
+    "chemicalName": "miconazole nitrate",
+    "brandName": "MONISTAT 3 DUAL-PAK",
+    "strength": "400 mg-2%",
+    "dosageForm": "kit",
+    "din": "02126249",
+    "manufacturer": "Insight Pharmaceuticals LLC"
+  },
+  {
+    "chemicalName": "mineral oil",
+    "brandName": "LANSOYL GEL 78%",
+    "strength": "78%",
+    "dosageForm": "gel",
+    "din": "00608734",
+    "manufacturer": "Aurium Pharma"
+  },
+  {
+    "chemicalName": "mineral oil",
+    "brandName": "MINERAL OIL",
+    "strength": "100%",
+    "dosageForm": "liquid",
+    "din": "00485802",
+    "manufacturer": "Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "mineral oil",
+    "brandName": "MINERAL OIL (HEAVY)",
+    "strength": "100%",
+    "dosageForm": "liquid",
+    "din": "01935348",
+    "manufacturer": "RW Consumer Products Ltd."
+  },
+  {
+    "chemicalName": "mineral oil, petrolatum",
+    "brandName": "SOOTHE NIGHT TIME",
+    "strength": "20%-80%",
+    "dosageForm": "oint (g)",
+    "din": "02125706",
+    "manufacturer": "Bausch & Lomb Inc."
+  },
+  {
+    "chemicalName": "mineral oil, petrolatum",
+    "brandName": "REFRESH LACRI-LUBE",
+    "strength": "42.5%-57.3%",
+    "dosageForm": "oint (g)",
+    "din": "00210889",
+    "manufacturer": "Allergan Inc."
+  },
+  {
+    "chemicalName": "modified cornstarch",
+    "brandName": "NESTLE RESOURCE THICKEN UP 227G POWDER",
+    "strength": "227 g",
+    "dosageForm": "powder",
+    "din": "11200019",
+    "manufacturer": "Nestle"
+  },
+  {
+    "chemicalName": "multivitamin ped",
+    "brandName": "CENTRUM JUNIOR COMPLETE",
+    "strength": "",
+    "dosageForm": "tablet",
+    "din": "80020794",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "multivitamin ped liq",
+    "brandName": "JAMP VITAMIN A, D, AND C INFANT DROPS",
+    "strength": "",
+    "dosageForm": "liquid",
+    "din": "80008471",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "multivitamin pediatric",
+    "brandName": "ENFAMIL POLY-VI-SOL",
+    "strength": "",
+    "dosageForm": "drops",
+    "din": "00762946",
+    "manufacturer": "Mead Johnson Nutrition"
+  },
+  {
+    "chemicalName": "multivitamin pediatric",
+    "brandName": "ENFAMIL TRI-VI-SOL",
+    "strength": "",
+    "dosageForm": "drops",
+    "din": "00762903",
+    "manufacturer": "Mead Johnson Nutrition"
+  },
+  {
+    "chemicalName": "multivitamin pediatric",
+    "brandName": "FLINTSTONES\u00ae MULTIPLE VITAMINS WITH EXTRA C",
+    "strength": "",
+    "dosageForm": "tablet",
+    "din": "02247975",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "multivitamin prenatal",
+    "brandName": "NESTLE MATERNA PRENATAL \nMULTIVITAMIN",
+    "strength": "",
+    "dosageForm": "tablet",
+    "din": "80082297",
+    "manufacturer": "Nestle Canada Inc."
+  },
+  {
+    "chemicalName": "multivitamin prenatal",
+    "brandName": "CENTRUM DHA, CENTRUM \nPRENATAL DHA, DHA",
+    "strength": "",
+    "dosageForm": "capsule",
+    "din": "80042704",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "multivitamin prenatal",
+    "brandName": "CENTRUM PRENATAL",
+    "strength": "",
+    "dosageForm": "tablet",
+    "din": "80045822",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "multivitamin prenatal",
+    "brandName": "WAMPOLE COMPLETE MULTI-PRE AND POST NATAL WITH FOLIC ACID",
+    "strength": "",
+    "dosageForm": "tablet",
+    "din": "02229535",
+    "manufacturer": "Wampole, Division of Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "multivitamin prenatal",
+    "brandName": "NESTLE MATERNA/CENTRUM \nMATERNA TAB",
+    "strength": "",
+    "dosageForm": "tablet",
+    "din": "80001842",
+    "manufacturer": "Wyeth Consumer"
+  },
+  {
+    "chemicalName": "multivitamin prenatal",
+    "brandName": "PRENATAL AND POSTPARTUM VITAMIN AND MINERAL \nSUPPLEMENT",
+    "strength": "",
+    "dosageForm": "tablet",
+    "din": "02241235",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "multivitamin prenatal",
+    "brandName": "PRENATAL AND POSTPARTUM VITAMINS AND MINERALS TABLETS",
+    "strength": "",
+    "dosageForm": "tablet",
+    "din": "80005770",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "naphazoline",
+    "brandName": "ALBALON",
+    "strength": "0.10%",
+    "dosageForm": "drops",
+    "din": "00001147",
+    "manufacturer": "Allergan Inc."
+  },
+  {
+    "chemicalName": "naproxen",
+    "brandName": "NAPROXEN",
+    "strength": "220 mg",
+    "dosageForm": "tablet",
+    "din": "02362430",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "niacin",
+    "brandName": "NIACIN 500MG",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00309737",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "niacin",
+    "brandName": "NIACIN TABLET 500",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "01939130",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "niacin",
+    "brandName": "NIACIN 500MG YEAST FREE",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00557412",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "nitroglycerin",
+    "brandName": "Nitrostat",
+    "strength": "0.3 mg",
+    "dosageForm": "tablet",
+    "din": "00037613",
+    "manufacturer": "BGP Pharma ULC"
+  },
+  {
+    "chemicalName": "nitroglycerin",
+    "brandName": "Nitrostat",
+    "strength": "0.6 mg",
+    "dosageForm": "tablet",
+    "din": "00037621",
+    "manufacturer": "BGP Pharma ULC"
+  },
+  {
+    "chemicalName": "nitroglycerin",
+    "brandName": "Rho-Nitro Pumpspray",
+    "strength": "0.4 mg",
+    "dosageForm": "metered-dose \npump",
+    "din": "02238998",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "nystatin",
+    "brandName": "NYADERM CRM 100000UNIT/GM",
+    "strength": "100000 u/g",
+    "dosageForm": "cream",
+    "din": "00716871",
+    "manufacturer": "Taro Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "PEG 3350",
+    "brandName": "EMOLAX",
+    "strength": "100%/w/w",
+    "dosageForm": "powder",
+    "din": "02374137",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "PEG 3350",
+    "brandName": "RELAXA",
+    "strength": "100%",
+    "dosageForm": "powder",
+    "din": "02346672",
+    "manufacturer": "Medexus Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "PEG 3350",
+    "brandName": "LAX-A-DAY",
+    "strength": "100%",
+    "dosageForm": "powder",
+    "din": "02317680",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "PEG 3350",
+    "brandName": "PEG 3350",
+    "strength": "100%",
+    "dosageForm": "powder",
+    "din": "02358034",
+    "manufacturer": "Medisca Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "PEG 3350",
+    "brandName": "RESTORALAX",
+    "strength": "100%/w/w",
+    "dosageForm": "powder",
+    "din": "02318164",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "permethrin",
+    "brandName": "NIX CREME RINSE",
+    "strength": "1%",
+    "dosageForm": "cream",
+    "din": "00771368",
+    "manufacturer": "Insight Pharmaceuticals LLC"
+  },
+  {
+    "chemicalName": "permethrin",
+    "brandName": "KWELLADA-P CR\u00c8ME RINSE",
+    "strength": "1%",
+    "dosageForm": "liquid",
+    "din": "02231480",
+    "manufacturer": "Medtech Products Inc."
+  },
+  {
+    "chemicalName": "permethrin",
+    "brandName": "NIX DERMAL CREAM",
+    "strength": "5%",
+    "dosageForm": "cream",
+    "din": "02219905",
+    "manufacturer": "GlaxoSmithKline"
+  },
+  {
+    "chemicalName": "permethrin",
+    "brandName": "KWELLADA-P LOTION",
+    "strength": "5%",
+    "dosageForm": "lotion",
+    "din": "02231348",
+    "manufacturer": "Medtech Products Inc."
+  },
+  {
+    "chemicalName": "petrolatum lanolin mineral oil",
+    "brandName": "SYSTANE OINTMENT",
+    "strength": "94%/3%/3%",
+    "dosageForm": "oint (g)",
+    "din": "02444062",
+    "manufacturer": "Alcon Canada Inc."
+  },
+  {
+    "chemicalName": "phenylephrine",
+    "brandName": "MYDFRIN",
+    "strength": "2.5%/w/v",
+    "dosageForm": "solution",
+    "din": "00465763",
+    "manufacturer": "Alcon Canada Inc."
+  },
+  {
+    "chemicalName": "piperonyl butoxide/pyrethrins",
+    "brandName": "R & C SHAMPOO WITH \nCONDITIONER",
+    "strength": "3%/0.33%",
+    "dosageForm": "shampoo",
+    "din": "02125447",
+    "manufacturer": "Medtech Products Inc."
+  },
+  {
+    "chemicalName": "polyethylene glycol",
+    "brandName": "SYSTANE LUBRICANT EYE DROPS",
+    "strength": "0.4%/w/v",
+    "dosageForm": "solution",
+    "din": "02248967",
+    "manufacturer": "Alcon Canada Inc."
+  },
+  {
+    "chemicalName": "polyethylene glycol",
+    "brandName": "SYSTANE GEL DROPS LUBRICANT",
+    "strength": "",
+    "dosageForm": "gel drops",
+    "din": "11200018",
+    "manufacturer": "Unknown"
+  },
+  {
+    "chemicalName": "polyethylene glycol, sodium sulphate, sodium bicarbonate, sodium chloride, potassium chloride, bisacodyl",
+    "brandName": "BI-PEGLYTE",
+    "strength": "",
+    "dosageForm": "kit",
+    "din": "02326302",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "EURO-K20 TABLET",
+    "strength": "20 meq (1500 \nmg)",
+    "dosageForm": "tablet er",
+    "din": "02242261",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "PMS-POTASSIUM CHLORIDE",
+    "strength": "20 meq/15 mL",
+    "dosageForm": "liquid",
+    "din": "02238604",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "ODAN K-20 TABLET 1500MG \n(20MEQ)",
+    "strength": "20 meq (1500 \nmg)",
+    "dosageForm": "tablet",
+    "din": "80004415",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "JAMP-K 8 TABLET 8MEQ",
+    "strength": "8 meq (600 mg)",
+    "dosageForm": "tablet",
+    "din": "80013005",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "JAMP - K 20 TABLET 20MEQ",
+    "strength": "20 meq (1500 \nmg)",
+    "dosageForm": "tablet",
+    "din": "80013007",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "JAMP POTASSIUM CHLORIDE LIQUID",
+    "strength": "20meq/15ml",
+    "dosageForm": "liquid",
+    "din": "80024835",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "ODAN POTASSIUM CHLORIDE LIQUID",
+    "strength": "20meq/15ml",
+    "dosageForm": "liquid",
+    "din": "80046782",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "JAMP-K EFFERVESCENT",
+    "strength": "25 meq",
+    "dosageForm": "tablet",
+    "din": "80033602",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "M-K8 600MG TABLET",
+    "strength": "8 meq (600 mg)",
+    "dosageForm": "tablet",
+    "din": "80035346",
+    "manufacturer": "Mantra Pharma Inc."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "Jamp - Potassium Chloride Er 8 Meq",
+    "strength": "8 meq (600 mg)",
+    "dosageForm": "tablet",
+    "din": "80062704",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "Nutra-K 600mg Tablet (Potassium Chloride)",
+    "strength": "8 meq (600 mg)",
+    "dosageForm": "tablet",
+    "din": "80097022",
+    "manufacturer": "Pharmaline Inc."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "Prz K20 1500 Mg",
+    "strength": "20 meq (1500 \nmg)",
+    "dosageForm": "tablet",
+    "din": "80107649",
+    "manufacturer": "Pharmaris Canada Inc."
+  },
+  {
+    "chemicalName": "potassium chloride",
+    "brandName": "Pharmaris K-8 (Potassium Chloride) 600mg Tablets",
+    "strength": "8 meq (600 mg)",
+    "dosageForm": "tablet",
+    "din": "80108882",
+    "manufacturer": "Pharmaris Canada Inc."
+  },
+  {
+    "chemicalName": "povidone/iodine",
+    "brandName": "BETADINE SOLUTION",
+    "strength": "10%",
+    "dosageForm": "solution",
+    "din": "00158348",
+    "manufacturer": "Purdue Pharma"
+  },
+  {
+    "chemicalName": "pramoxine/zinc",
+    "brandName": "ANUSOL PLUS SUPPOSITORIES",
+    "strength": "20 mg/10 mg",
+    "dosageForm": "supp rect",
+    "din": "01945904",
+    "manufacturer": "Church & Dwight Canada Corp."
+  },
+  {
+    "chemicalName": "psyllium powder",
+    "brandName": "MUCILLIUM (PLANTAGO SEED 50%); LAX-A BALANCE; LAX-A EASE; LAX-A FIBRE",
+    "strength": "",
+    "dosageForm": "powder",
+    "din": "00599875",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "psyllium powder",
+    "brandName": "METAMUCIL FIBRE THERAPY \u2013 SMOOTH TEXTURE, SUGAR FREE, UNFLAVOURED",
+    "strength": "",
+    "dosageForm": "powder",
+    "din": "02174804",
+    "manufacturer": "Procter & Gamble Inc."
+  },
+  {
+    "chemicalName": "psyllium powder",
+    "brandName": "METAMUCIL FIBRE THERAPY \n\u2013 ORIGINAL, UNFLAVOURED",
+    "strength": "",
+    "dosageForm": "powder",
+    "din": "02174812",
+    "manufacturer": "Procter & Gamble Inc."
+  },
+  {
+    "chemicalName": "psyllium powder",
+    "brandName": "METAMUCIL FIBRE THERAPY \u2013 SMOOTH TEXTURE, SUGAR FREE, FLAVOURED",
+    "strength": "",
+    "dosageForm": "powder",
+    "din": "02174782",
+    "manufacturer": "Procter & Gamble Inc."
+  },
+  {
+    "chemicalName": "psyllium powder",
+    "brandName": "METAMUCIL FIBRE THERAPY \u2013 SMOOTH TEXTURE",
+    "strength": "",
+    "dosageForm": "powder",
+    "din": "02174790",
+    "manufacturer": "Procter & Gamble Inc."
+  },
+  {
+    "chemicalName": "pyrantel pamoate",
+    "brandName": "COMBANTRIN TAB 125MG",
+    "strength": "125 mg",
+    "dosageForm": "tablet",
+    "din": "01944363",
+    "manufacturer": "McNeil Consumer Healthcare"
+  },
+  {
+    "chemicalName": "pyrantel pamoate",
+    "brandName": "Jamp-Pyrantel Pamoate",
+    "strength": "125mg",
+    "dosageForm": "tablet",
+    "din": "02380617",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "salicylic acid",
+    "brandName": "SEBCUR SHAMPOO",
+    "strength": "4%",
+    "dosageForm": "shampoo",
+    "din": "00666106",
+    "manufacturer": "Dermtek Pharmaceutique Ltee"
+  },
+  {
+    "chemicalName": "salicylic acid",
+    "brandName": "COMPOUND W GEL",
+    "strength": "17%",
+    "dosageForm": "gel",
+    "din": "02230131",
+    "manufacturer": "Medtech Products Inc."
+  },
+  {
+    "chemicalName": "salicylic acid",
+    "brandName": "SOLUVER LIQ. 20%",
+    "strength": "20%",
+    "dosageForm": "liquid",
+    "din": "00690333",
+    "manufacturer": "Dermtek Pharmaceutique Ltee"
+  },
+  {
+    "chemicalName": "salicylic acid",
+    "brandName": "SOLUVER PLUS LIQ. 27%",
+    "strength": "27%",
+    "dosageForm": "liquid",
+    "din": "00837733",
+    "manufacturer": "Dermtek Pharmaceutique Ltee"
+  },
+  {
+    "chemicalName": "salicylic acid",
+    "brandName": "DR. SCHOLL\u2019S CLEAR AWAY WART REMOVER SALICYLIC ACID PLANTAR WART TREATMENT",
+    "strength": "40%",
+    "dosageForm": "plaster",
+    "din": "01967878",
+    "manufacturer": "Scholl's Wellness Company"
+  },
+  {
+    "chemicalName": "salicylic acid",
+    "brandName": "Compound W Plantar Wart Remover",
+    "strength": "0.4",
+    "dosageForm": "adh. patch",
+    "din": "02239055",
+    "manufacturer": "Medtech Products Inc."
+  },
+  {
+    "chemicalName": "salicylic acid",
+    "brandName": "Compound W Pads",
+    "strength": "0.4",
+    "dosageForm": "adh. patch",
+    "din": "02229990",
+    "manufacturer": "Medtech Products Inc."
+  },
+  {
+    "chemicalName": "salicylic acid/coal tar",
+    "brandName": "SEBCUR-T",
+    "strength": "4%-10%",
+    "dosageForm": "shampoo",
+    "din": "00666114",
+    "manufacturer": "Dermtek Pharmaceutique Ltee"
+  },
+  {
+    "chemicalName": "selenium sulfide",
+    "brandName": "SELSUN 2.5% EXTRA STRENGTH",
+    "strength": "2.50%",
+    "dosageForm": "lotion",
+    "din": "00243000",
+    "manufacturer": "Sanofi Consumer Health Inc."
+  },
+  {
+    "chemicalName": "selenium sulfide",
+    "brandName": "VERSEL LOTION 2.5%",
+    "strength": "2.50%",
+    "dosageForm": "lotion",
+    "din": "00594601",
+    "manufacturer": "Valeo Pharma"
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "SENNALAX",
+    "strength": "8.6 mg",
+    "dosageForm": "tablet",
+    "din": "80069737",
+    "manufacturer": "CellChem Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "SENNALAX LIQUID",
+    "strength": "1.7 mg/mL",
+    "dosageForm": "liquid",
+    "din": "02144379",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "SENOKOT SYRUP",
+    "strength": "1.7 mg/mL",
+    "dosageForm": "syrup",
+    "din": "00367729",
+    "manufacturer": "Purdue Pharma"
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "PMS-SENNOSIDES TAB 12MG",
+    "strength": "12 mg",
+    "dosageForm": "tablet",
+    "din": "00896403",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "JAMP SENNOSIDES 12MG COATED TABLETS",
+    "strength": "12 mg",
+    "dosageForm": "tablet",
+    "din": "80009183",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "SENNA TABLET USP; JAMP-SENNA",
+    "strength": "8.6 mg",
+    "dosageForm": "tablet",
+    "din": "80009595",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "M SENNOSIDES; M SENNA; M-SENNA 8.6MG",
+    "strength": "8.6 mg",
+    "dosageForm": "tablet",
+    "din": "80043280",
+    "manufacturer": "Mantra Pharma Inc."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "PMS-SENNOSIDES TAB 8.6MG",
+    "strength": "8.6 mg",
+    "dosageForm": "tablet",
+    "din": "00896411",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "LAX-A SENNA; LAX-A NIGHT; LAX-A SEN; SENNATAB",
+    "strength": "8.6 mg",
+    "dosageForm": "tablet",
+    "din": "02068109",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "SENNA LAXATIVE",
+    "strength": "8.6 mg",
+    "dosageForm": "tablet",
+    "din": "02237105",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "JAMP SENNOSIDES 8.6MG COATED TABLETS",
+    "strength": "8.6 mg",
+    "dosageForm": "tablet",
+    "din": "80009182",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "EURO-SENNA; SANDOZ SENNA",
+    "strength": "8.6 mg",
+    "dosageForm": "tablet",
+    "din": "02247389",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "sennosides",
+    "brandName": "SENNALAX FORTE",
+    "strength": "12 mg",
+    "dosageForm": "tablet",
+    "din": "80069733",
+    "manufacturer": "CellChem Pharmaceuticals Inc."
+  },
+  {
+    "chemicalName": "sennosides/docusate sodium",
+    "brandName": "SENNA LAXATIVE AND DOCUSATE SODIUM TABLETS",
+    "strength": "8.6 mg - 50 mg",
+    "dosageForm": "tablet",
+    "din": "02247134",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "sennosides/docusate sodium",
+    "brandName": "SANDOZ SENNA S",
+    "strength": "8.6 mg - 50 mg",
+    "dosageForm": "tablet",
+    "din": "02247390",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "sennosides/docusate sodium",
+    "brandName": "JAMP-SENNA S",
+    "strength": "8.6 mg - 50 mg",
+    "dosageForm": "tablet",
+    "din": "02291215",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "sodium bicarbonate",
+    "brandName": "XENEX SODIUM BICARBONATE 325MG TABLETS",
+    "strength": "325 mg",
+    "dosageForm": "tablet",
+    "din": "00481912",
+    "manufacturer": "Xenex Laboratories Inc."
+  },
+  {
+    "chemicalName": "sodium carboxymethylcellulose",
+    "brandName": "REFRESH PLUS DPS 5MG/ML",
+    "strength": "0.50%",
+    "dosageForm": "drops",
+    "din": "02049260",
+    "manufacturer": "Allergan Inc."
+  },
+  {
+    "chemicalName": "sodium carboxymethylcellulose",
+    "brandName": "REFRESH TEARS",
+    "strength": "0.50%",
+    "dosageForm": "drops",
+    "din": "02231008",
+    "manufacturer": "Allergan Inc."
+  },
+  {
+    "chemicalName": "sodium carboxymethylcellulose",
+    "brandName": "REFRESH CELLUVISC",
+    "strength": "1%",
+    "dosageForm": "drops",
+    "din": "00870153",
+    "manufacturer": "Allergan Inc."
+  },
+  {
+    "chemicalName": "sodium carboxymethylcellulose",
+    "brandName": "REFRESH LIQUIGEL",
+    "strength": "1%",
+    "dosageForm": "solution",
+    "din": "02244650",
+    "manufacturer": "Allergan Inc."
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "BALLARD UNIT DOSE - NAS ORL.9%; Halyard* Single Dose Saline Vials",
+    "strength": "0.90%",
+    "dosageForm": "val/neb; vapour from liquid \n(inhalation)",
+    "din": "02215977",
+    "manufacturer": "Ballard Medica"
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "0.9% SODIUM CHLORIDE INJECTION, USP",
+    "strength": "0.90%",
+    "dosageForm": "solution",
+    "din": "02150204",
+    "manufacturer": "Omega Laboratories Ltd."
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "AIRLIFE MODUDOSE 0.9% SODIUM CHLORIDE SOLUTION NEBULES FOR INHALATION",
+    "strength": "0.90%",
+    "dosageForm": "solution",
+    "din": "80023553",
+    "manufacturer": "Carefusion"
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "SODIUM CHLORIDE \nBACTERIOSTATIC INJ",
+    "strength": "0.90%",
+    "dosageForm": "liquid",
+    "din": "00402249",
+    "manufacturer": "Omega Laboratories Ltd."
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "SODIUM CHLORIDE INJECTION USP",
+    "strength": "0.90%",
+    "dosageForm": "solution",
+    "din": "00037796",
+    "manufacturer": "Pzifer Canada ULC"
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "0.9% SODIUM CHLORIDE INJECTION, USP",
+    "strength": "0.90%",
+    "dosageForm": "solution",
+    "din": "00060208",
+    "manufacturer": "Baxter Corp."
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "MURO 128 OINTMENT 5%",
+    "strength": "5%",
+    "dosageForm": "oint (g)",
+    "din": "00750816",
+    "manufacturer": "Bausch & Lomb Inc."
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "ODAN-SODIUM CHLORIDE \nOPHTHALMIC OINTMENT USP",
+    "strength": "5%",
+    "dosageForm": "oint (g)",
+    "din": "80046696",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "MURO 128 SOLUTION 5%",
+    "strength": "5%",
+    "dosageForm": "solution",
+    "din": "00750824",
+    "manufacturer": "Bausch & Lomb Inc."
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "SODIUM CHLORIDE 1G CAP",
+    "strength": "1 g",
+    "dosageForm": "",
+    "din": "11200020",
+    "manufacturer": "Unknown"
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "SALINEX DROPS",
+    "strength": "9 mg/mL",
+    "dosageForm": "nasal drops",
+    "din": "80024901",
+    "manufacturer": "Sandoz Canada"
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "SALINEX NASAL SPRAY",
+    "strength": "9 mg/mL",
+    "dosageForm": "spray",
+    "din": "80024381",
+    "manufacturer": "Sandoz Canada"
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "SODIUM CHLORIDE INHALATION SOLUTION USP 0.9%",
+    "strength": "0.90%",
+    "dosageForm": "vial-neb",
+    "din": "02058235",
+    "manufacturer": "The Rightdose C"
+  },
+  {
+    "chemicalName": "sodium chloride",
+    "brandName": "Odan-Sodium Chloride Ophthalmic Solution Usp 5% Solution",
+    "strength": "0.05",
+    "dosageForm": "solution",
+    "din": "80046737",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "sodium cromoglycate",
+    "brandName": "CROMOLYN EYE DROPS",
+    "strength": "2%",
+    "dosageForm": "solution",
+    "din": "02009277",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "sodium cromoglycate",
+    "brandName": "RHINARIS-CS ANTI-ALLERGIC NASAL MIST",
+    "strength": "2%",
+    "dosageForm": "spray",
+    "din": "01950541",
+    "manufacturer": "Pendopharm Inc."
+  },
+  {
+    "chemicalName": "sodium phosphate",
+    "brandName": "JAMP-SODIUM PHOSPHATE \n500/469/123 MG TAB",
+    "strength": "500/469/123 mg",
+    "dosageForm": "tab eff.",
+    "din": "80047562",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "sodium phosphate",
+    "brandName": "PHOSLAX",
+    "strength": "0.9 g-2.4 g",
+    "dosageForm": "solution",
+    "din": "80000689",
+    "manufacturer": "Odan Laboratories Ltd."
+  },
+  {
+    "chemicalName": "sodium phosphate",
+    "brandName": "PHOSPHATES SOLUTION; OPTION + PHOSPHATES SOLUTION; \nPHARMASAVE PHOSPHATES \nSOLUTION; R\u00c9SERV\u00c9 PHOSPHATES SOLUTION",
+    "strength": "480 mg/mL",
+    "dosageForm": "solution",
+    "din": "02230399",
+    "manufacturer": "Pharmascience Inc."
+  },
+  {
+    "chemicalName": "sodium phosphate",
+    "brandName": "Jamp-sodium phosphate solution",
+    "strength": "0.891g-2.4g",
+    "dosageForm": "solution",
+    "din": "80034416",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "sterile water",
+    "brandName": "STERILE WATER FOR INJECTION USP",
+    "strength": "100%",
+    "dosageForm": "IV solution",
+    "din": "01927930",
+    "manufacturer": "B. Braun Medical"
+  },
+  {
+    "chemicalName": "sterile water",
+    "brandName": "STERILE WATER FOR INJECTION USP",
+    "strength": "100%",
+    "dosageForm": "liquid",
+    "din": "00402257",
+    "manufacturer": "Omega Laboratories Ltd."
+  },
+  {
+    "chemicalName": "sterile water",
+    "brandName": "STERILE WATER FOR INJECTION USP",
+    "strength": "100%",
+    "dosageForm": "solution",
+    "din": "02142546",
+    "manufacturer": "Pfizer Canada ULC"
+  },
+  {
+    "chemicalName": "sterile water",
+    "brandName": "BACTERIOSTATIC WATER FOR INJECTION USP",
+    "strength": "30 mL/30 mL",
+    "dosageForm": "solution",
+    "din": "00038202",
+    "manufacturer": "Pfizer Canada ULC"
+  },
+  {
+    "chemicalName": "tolnaftate",
+    "brandName": "TINACTIN",
+    "strength": "1%",
+    "dosageForm": "cream",
+    "din": "00576034",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "tolnaftate",
+    "brandName": "DR. SCHOLL'S ATHLETE'S FOOT SPRAY POWDER",
+    "strength": "1%",
+    "dosageForm": "powder",
+    "din": "01919245",
+    "manufacturer": "Scholl's Wellness Company"
+  },
+  {
+    "chemicalName": "tolnaftate",
+    "brandName": "TINACTIN POWDER",
+    "strength": "1%",
+    "dosageForm": "powder",
+    "din": "00576042",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "tolnaftate",
+    "brandName": "TINACTIN AEROSOL POWDER",
+    "strength": "1%",
+    "dosageForm": "powder",
+    "din": "00576050",
+    "manufacturer": "Bayer Inc."
+  },
+  {
+    "chemicalName": "unknown generic name",
+    "brandName": "CANTHARONE LIQUID 0.7%",
+    "strength": "0.70%",
+    "dosageForm": "liquid",
+    "din": "80023975",
+    "manufacturer": "Dormer Laboratories Inc."
+  },
+  {
+    "chemicalName": "unknown generic name",
+    "brandName": "JAMP SENNAQUIL 1.7 MG/ML",
+    "strength": "1.7 mg/mL",
+    "dosageForm": "liquid",
+    "din": "80024394",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin A",
+    "brandName": "VITAMIN A 10,000IU",
+    "strength": "10,000 IU",
+    "dosageForm": "capsule",
+    "din": "00297720",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "VITAMIN B12",
+    "strength": "1000 mcg/mL",
+    "dosageForm": "vial",
+    "din": "00521515",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "CYANOCOBALAMIN INJECTION USP",
+    "strength": "1000 mcg/ml",
+    "dosageForm": "vial",
+    "din": "02413795",
+    "manufacturer": "Stride Pharma"
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "JAMP-CYANOCOBALAMIN INJECTION",
+    "strength": "1000 mcg/ml",
+    "dosageForm": "vial",
+    "din": "02420147",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "B-12 1000 INJECTION 1000MCG/ML",
+    "strength": "1000 mcg/ml",
+    "dosageForm": "vial",
+    "din": "00626112",
+    "manufacturer": "Omega Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "CYANOCOBALAMIN INJECTION USP",
+    "strength": "1000 mcg/mL",
+    "dosageForm": "ampul",
+    "din": "01987003",
+    "manufacturer": "Sterimax Inc."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "VITAMIN B12 1000MCG",
+    "strength": "1000 mcg",
+    "dosageForm": "tablet",
+    "din": "80012952",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin B6",
+    "brandName": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
+    "strength": "100 mg/mL",
+    "dosageForm": "vial",
+    "din": "02245215",
+    "manufacturer": "Mylan Pharmaceuticals ULC"
+  },
+  {
+    "chemicalName": "vitamin B6",
+    "brandName": "VITAMIN B6 100MG TABLET",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "80003665",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "vitamin B6",
+    "brandName": "VITAMIN B6 100MG TAB",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "00263958",
+    "manufacturer": "Valeant Canada"
+  },
+  {
+    "chemicalName": "vitamin B6",
+    "brandName": "VITAMIN B6 100MG",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "00329185",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin B6",
+    "brandName": "VITAMIN B6 100MG TABLETS USP",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "02239348",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin B6",
+    "brandName": "B6 TABLETS 100MG",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "00450677",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "vitamin B6",
+    "brandName": "VITAMIN B6 25MG",
+    "strength": "25 mg",
+    "dosageForm": "tablet",
+    "din": "80002890",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin B6",
+    "brandName": "VITAMIN B6 TAB 50MG",
+    "strength": "50 mg",
+    "dosageForm": "tablet",
+    "din": "00305227",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C",
+    "strength": "250 mg/mL",
+    "dosageForm": "ampul",
+    "din": "00780634",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C 500MG TABLET",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "80001520",
+    "manufacturer": "Wampole, Division of Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C 1000MG SUSTAINED RELEASE TABLETS",
+    "strength": "1000 mg",
+    "dosageForm": "tablet er",
+    "din": "00760587",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C TABLETS 1000MG",
+    "strength": "1000 mg",
+    "dosageForm": "tablet",
+    "din": "00354376",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C TABLETS 250MG \nCHEWABLE; VITAMIN C 250MG; VITAMIN C",
+    "strength": "250 mg",
+    "dosageForm": "tablet chew",
+    "din": "00266051",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C TAB 250MG; VITAMIN C 250MG; VITAMIN C 250MG TABLETS USP",
+    "strength": "250 mg",
+    "dosageForm": "tablet",
+    "din": "00162515",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C TAB 250MG; VITAMIN C 250MG TABLETS USP PLAIN",
+    "strength": "250 mg",
+    "dosageForm": "tablet",
+    "din": "00557811",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C; VITAMIN C 500MG TABLET",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "02163268",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "ASCORBIC ACID TABLETS 500MG; C 500MG; VITAMIN C 500MG",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00266086",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "WAMPOLE CHEWABLE VITAMIN C 500MG TABLETS; VITAMIN C",
+    "strength": "500 mg",
+    "dosageForm": "tablet chew",
+    "din": "00274240",
+    "manufacturer": "Wampole, Division of Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C 500MG CHEWABLE TABLETS NATURAL ORANGE \nFLAVOUR; CHEWABLE VITAMIN C 500MG",
+    "strength": "500 mg",
+    "dosageForm": "tablet chew",
+    "din": "02245721",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "CHEWABLE VITAMIN C 500MG; C 500MG, C 500MG CHEWABLE;",
+    "strength": "500 mg",
+    "dosageForm": "tablet chew",
+    "din": "00784591",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C; CHEWABLE C; \nCHEWABLE VITAMIN C; VITAMIN C CHEWABLE",
+    "strength": "500 mg",
+    "dosageForm": "tablet chew",
+    "din": "02245348",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "WAMPOLE VITAMIN C 500MG TABLETS",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00036188",
+    "manufacturer": "Wampole, Division of Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C TABLET 500MG",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00041114",
+    "manufacturer": "Adams Labs Ltd."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C TAB 500MG ORANGE FLAVOURED CHEWABLE",
+    "strength": "500 mg",
+    "dosageForm": "tablet chew",
+    "din": "00322326",
+    "manufacturer": "Adams Labs Ltd."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C TAB 500MG",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "00557838",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C 500MG TABLETS USP; VITAMIN C",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "02244469",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin C",
+    "brandName": "VITAMIN C 500MG TAB",
+    "strength": "500 mg",
+    "dosageForm": "tablet",
+    "din": "80003328",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "M-D1000 GEL",
+    "strength": "1000 IU",
+    "dosageForm": "capsule; soft",
+    "din": "80055204",
+    "manufacturer": "Mantra Pharma Inc."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "D-GEL 1000",
+    "strength": "1000 IU",
+    "dosageForm": "softgel",
+    "din": "80007766",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "VITAMIN D 1000IU (TABLET); D 1000IU; D3; VITAMIN D",
+    "strength": "1000 IU",
+    "dosageForm": "tablet",
+    "din": "80000436",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "VITAMIN D 1000 IU TABLET; D3; VITAMIN D3; PROVITA D3",
+    "strength": "1000 IU",
+    "dosageForm": "tablet",
+    "din": "80003663",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "VITAMIN D 1000IU",
+    "strength": "1000 IU",
+    "dosageForm": "tablet",
+    "din": "80009580",
+    "manufacturer": "Swiss Herbal"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "VITAMIN D3 1000 IU TABLETS; ACTI D; BONES & JOINTS VITAMIN D3 1000IU",
+    "strength": "1000 IU",
+    "dosageForm": "tablet",
+    "din": "02245842",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "VITAMIN D 1000IU CHEW; \nCHEWABLE VITAMIN D CHOCOLATE; CHEWABLE VITAMIN D ORANGE; D3; VITAMIN D; VITAMIN D3",
+    "strength": "1000 IU",
+    "dosageForm": "tablet chew",
+    "din": "80031157",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "DDROPS 25.0 MCG",
+    "strength": "1000 IU liquid",
+    "dosageForm": "liquid",
+    "din": "80001791",
+    "manufacturer": "Unknown"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "JAMP-VITAMIN D LIQUID 1000IU",
+    "strength": "1000 IU liquid",
+    "dosageForm": "liquid",
+    "din": "80028362",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "EURO D VITAMIN D3 400 IU",
+    "strength": "400 IU",
+    "dosageForm": "capsule",
+    "din": "02242651",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "VITAMINE D 400 UI",
+    "strength": "400 IU",
+    "dosageForm": "capsule",
+    "din": "80008590",
+    "manufacturer": "Biomed Pharma"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "D-GEL 400",
+    "strength": "400 IU",
+    "dosageForm": "softgel",
+    "din": "80006629",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "WAMPOLE VITAMIN D 400 IU TABLETS; VITAMIN D3",
+    "strength": "400 IU",
+    "dosageForm": "tablet",
+    "din": "02240624",
+    "manufacturer": "Wampole, Division of Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "VITAMIN D 400 IU; VITAMIN D3; WEBBERS NATURALS VITAMIN D3",
+    "strength": "400 IU",
+    "dosageForm": "tablet",
+    "din": "80002452",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "VITAMIN D 400 IU",
+    "strength": "400 IU",
+    "dosageForm": "tablet",
+    "din": "02238729",
+    "manufacturer": "Vita Health Products Inc."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "VITAMIN D 400 IU TABLET",
+    "strength": "400 IU",
+    "dosageForm": "tablet",
+    "din": "02240858",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "ENFAMIL D-VI-SOL INFANTS DROPS 400 UNIT/ML",
+    "strength": "400 IU liquid",
+    "dosageForm": "drops",
+    "din": "00762881",
+    "manufacturer": "Mead Johnson Nutrition"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "BABY DDROPS 10MCG",
+    "strength": "400 IU liquid",
+    "dosageForm": "drops",
+    "din": "80001869",
+    "manufacturer": "Unknown"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "JAMP D3-DOL 400IU O/L; JAMP D3- DOL",
+    "strength": "400 IU liquid",
+    "dosageForm": "liquid",
+    "din": "80019649",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "DDROPS VITAMIN D3 400U DROPS; KIDS DDROPS",
+    "strength": "400 IU liquid",
+    "dosageForm": "drops",
+    "din": "80001792",
+    "manufacturer": "Unknown"
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "JAMP-VITAMIN D 400IU DROPS; D3- POM",
+    "strength": "400 IU liquid",
+    "dosageForm": "drops",
+    "din": "80003038",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin D",
+    "brandName": "PEDIAVIT D ORAL SOLUTION USP",
+    "strength": "400 IU liquid",
+    "dosageForm": "drops",
+    "din": "02231624",
+    "manufacturer": "Euro-Pharm International Canada Inc."
+  },
+  {
+    "chemicalName": "vitamin B1",
+    "brandName": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
+    "strength": "100 mg/mL",
+    "dosageForm": "liquid",
+    "din": "02193221",
+    "manufacturer": "Omega Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin B1",
+    "brandName": "VITAMIN B1",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "00407011",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin B1",
+    "brandName": "VITAMIN B1",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "00232467",
+    "manufacturer": "Adams Lab Ltd."
+  },
+  {
+    "chemicalName": "vitamin B1",
+    "brandName": "VITAMIN B1",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "80000352",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "vitamin B1",
+    "brandName": "VITAMIN B1 100MG TABLET; JAMP VITAMIN B1",
+    "strength": "100 mg",
+    "dosageForm": "tablet",
+    "din": "80009588",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin B1",
+    "brandName": "VITAMIN B1",
+    "strength": "100 mg/mL",
+    "dosageForm": "ampul",
+    "din": "00816078",
+    "manufacturer": "Sandoz Canada Inc."
+  },
+  {
+    "chemicalName": "vitamin B1",
+    "brandName": "JAMP-VITAMIN B1",
+    "strength": "50 mg",
+    "dosageForm": "tablet",
+    "din": "80009633",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "JAMP-VITAMIN B12 1000MCG RAPID ORAL DISSOLUTION",
+    "strength": "1000 mcg",
+    "dosageForm": "tablet",
+    "din": "80028902",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "JAMP-VITAMIN B12 1000MCG",
+    "strength": "1000 mcg",
+    "dosageForm": "tablet",
+    "din": "80015276",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "VITAMIN B12 METHYLCOBALAMIN B12; B12 SUBLINGUAL; VITAMIN B12",
+    "strength": "1000 mcg",
+    "dosageForm": "tablet",
+    "din": "80006939",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "VITAMIN B12 1000MCG TIMED RELEASE; B12; VITAMIN B12; \nVITAMIN B12 1000MCG",
+    "strength": "1000 mcg",
+    "dosageForm": "tablet",
+    "din": "80003575",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "VITAMIN B12 1000MCG TABLETS",
+    "strength": "1000 mcg",
+    "dosageForm": "tablet",
+    "din": "02237736",
+    "manufacturer": "Swiss Herbal"
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "BEDUZIL ORAL LIQUID",
+    "strength": "200 mcg/mL",
+    "dosageForm": "liquid",
+    "din": "80039903",
+    "manufacturer": "Orimed Pharma Inc."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "JAMP-VITAMIN B12 250MCG",
+    "strength": "250 mcg",
+    "dosageForm": "tablet",
+    "din": "80015294",
+    "manufacturer": "Jamp Pharma Corp."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "VITAMIN B12 250MCG",
+    "strength": "250 mcg",
+    "dosageForm": "tablet",
+    "din": "00335940",
+    "manufacturer": "Jamieson Laboratories Ltd."
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "VITAMIN B12 TABLETS 250MCG",
+    "strength": "250 mcg",
+    "dosageForm": "tablet",
+    "din": "02239695",
+    "manufacturer": "Pharmetics"
+  },
+  {
+    "chemicalName": "vitamin B12",
+    "brandName": "VITAMIN B12 250MCG TABLETS",
+    "strength": "250 mcg",
+    "dosageForm": "tablet",
+    "din": "80004053",
+    "manufacturer": "WN Pharmaceuticals Ltd"
+  },
+  {
+    "chemicalName": "zinc oxide",
+    "brandName": "ZINC OXIDE CREAM 15%",
+    "strength": "15%",
+    "dosageForm": "cream",
+    "din": "02215799",
+    "manufacturer": "H.J. Sutton Industries Ltd."
+  },
+  {
+    "chemicalName": "zinc oxide",
+    "brandName": "IHLE'S PASTE",
+    "strength": "25%",
+    "dosageForm": "paste",
+    "din": "00532576",
+    "manufacturer": "Rougier Pharma, a division of Teva Canada Ltd."
+  },
+  {
+    "chemicalName": "zinc oxide",
+    "brandName": "P\u00c2TE D'IHLE PST 25%",
+    "strength": "25%",
+    "dosageForm": "paste",
+    "din": "00886327",
+    "manufacturer": "Laboratoire Atlas Inc."
+  },
+  {
+    "chemicalName": "zinc oxide",
+    "brandName": "Infazinc Ont 15%",
+    "strength": "0.15",
+    "dosageForm": "oint (g)",
+    "din": "00572519",
+    "manufacturer": "Laboratoire Atlas Inc."
+  },
+  {
+    "chemicalName": "zinc oxide/white petrolatum",
+    "brandName": "ZINCOFAX EXTRA STRENGTH",
+    "strength": "40%-47%",
+    "dosageForm": "oint (g)",
+    "din": "02239160",
+    "manufacturer": "Paladin Labs Inc."
+  },
+  {
+    "chemicalName": "zinc oxide/white petrolatum",
+    "brandName": "ZINCOFAX",
+    "strength": "15%-69%",
+    "dosageForm": "oint (g)",
+    "din": "02239162",
+    "manufacturer": "Paladin Labs Inc."
+  }
+]

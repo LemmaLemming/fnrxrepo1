@@ -1,0 +1,47 @@
+diff --git a/node_modules/vision-camera-ocr/ios/VisionCameraOcr.m b/node_modules/vision-camera-ocr/ios/VisionCameraOcr.m
+index 9e66781..4aa5d8a 100644
+--- a/node_modules/vision-camera-ocr/ios/VisionCameraOcr.m
++++ b/node_modules/vision-camera-ocr/ios/VisionCameraOcr.m
+@@ -1,5 +1,5 @@
+ #import <Foundation/Foundation.h>
+ #import <VisionCamera/FrameProcessorPlugin.h>
+ 
+-@interface VISION_EXPORT_SWIFT_FRAME_PROCESSOR(scanOCR, OCRFrameProcessorPlugin)
++@interface VISION_EXPORT_SWIFT_FRAME_PROCESSOR(OCRFrameProcessorPlugin, scanOCR)
+ @end
+diff --git a/node_modules/vision-camera-ocr/ios/VisionCameraOcr.swift b/node_modules/vision-camera-ocr/ios/VisionCameraOcr.swift
+index 5d522bb..ae9ed03 100644
+--- a/node_modules/vision-camera-ocr/ios/VisionCameraOcr.swift
++++ b/node_modules/vision-camera-ocr/ios/VisionCameraOcr.swift
+@@ -4,7 +4,7 @@ import MLKitVision
+ import MLKitTextRecognition
+ 
+ @objc(OCRFrameProcessorPlugin)
+-public class OCRFrameProcessorPlugin: NSObject, FrameProcessorPluginBase {
++public class OCRFrameProcessorPlugin: FrameProcessorPlugin {
+     
+     private static var textRecognizer = TextRecognizer.textRecognizer()
+     
+@@ -105,8 +105,11 @@ public class OCRFrameProcessorPlugin: NSObject, FrameProcessorPluginBase {
+         ]
+     }
+     
+-    @objc
+-    public static func callback(_ frame: Frame!, withArgs _: [Any]!) -> Any! {
++    public override init(proxy: VisionCameraProxyHolder, options: [AnyHashable: Any]?) {
++        super.init(proxy: proxy, options: options)
++    }
++
++    public override func callback(_ frame: Frame, withArguments _: [AnyHashable: Any]?) -> Any? {
+         
+         guard (CMSampleBufferGetImageBuffer(frame.buffer) != nil) else {
+           print("Failed to get image buffer from sample buffer.")
+@@ -130,7 +133,7 @@ public class OCRFrameProcessorPlugin: NSObject, FrameProcessorPluginBase {
+         return [
+             "result": [
+                 "text": result.text,
+-                "blocks": getBlockArray(result.blocks),
++                "blocks": OCRFrameProcessorPlugin.getBlockArray(result.blocks),
+             ]
+         ]
+     }
